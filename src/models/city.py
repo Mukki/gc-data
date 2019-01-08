@@ -1,32 +1,33 @@
+import json
 from urllib.request import urlretrieve
 
-import xml.etree.ElementTree as ET
+import xml.etree.ElementTree as ElementTree
 
 
 class City:
     cities = {}
 
-    def __init__(self, city_url='http://dd.weather.gc.ca/citypage_weather/xml/siteList.xml'):
-        try:
-            # TODO: Should open the file that we save instead of downloading it again
-            raise FileNotFoundError
+    def __init__(self, use_json=True, city_url='http://dd.weather.gc.ca/citypage_weather/xml/siteList.xml'):
+        if use_json is True:
+            with open('data/city/cities.json') as json_file:
+                self.cities = json.load(json_file)
 
-        except FileNotFoundError:
+        else:
             try:
                 urlretrieve(city_url, 'data/city/city.xml')
 
             except IOError:
                 raise IOError('Can\'t access the list of city from the Government of Canada website')
 
-        city_tree = ET.ElementTree()
-        city_tree.parse('data/city/city.xml')
-        cities = city_tree.findall("site")
+            city_tree = ElementTree.ElementTree()
+            city_tree.parse('data/city/city.xml')
+            cities = city_tree.findall("site")
 
-        for city in cities:
-            city_code = city.attrib["code"]
+            for city in cities:
+                city_code = city.attrib["code"]
 
-            self.cities[city_code] = {
-                'english_name': city.findtext('nameEn'),
-                'french_name': city.findtext('nameFr'),
-                'province': city.findtext("provinceCode"),
-            }
+                self.cities[city_code] = {
+                    'english_name': city.findtext('nameEn'),
+                    'french_name': city.findtext('nameFr'),
+                    'province': city.findtext("provinceCode"),
+                }

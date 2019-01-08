@@ -1,0 +1,4277 @@
+{
+    "s0000001": {
+        "english_name": "Athabasca",
+        "french_name": "Athabasca",
+        "province": "AB"
+    },
+    "s0000002": {
+        "english_name": "Clearwater",
+        "french_name": "Clearwater",
+        "province": "BC"
+    },
+    "s0000003": {
+        "english_name": "Valemount",
+        "french_name": "Valemount",
+        "province": "BC"
+    },
+    "s0000004": {
+        "english_name": "Grand Forks",
+        "french_name": "Grand Forks",
+        "province": "BC"
+    },
+    "s0000005": {
+        "english_name": "McBride",
+        "french_name": "McBride",
+        "province": "BC"
+    },
+    "s0000006": {
+        "english_name": "Merritt",
+        "french_name": "Merritt",
+        "province": "BC"
+    },
+    "s0000007": {
+        "english_name": "Masset",
+        "french_name": "Masset",
+        "province": "BC"
+    },
+    "s0000008": {
+        "english_name": "Invermere",
+        "french_name": "Invermere",
+        "province": "BC"
+    },
+    "s0000009": {
+        "english_name": "Dome Creek",
+        "french_name": "Dome Creek",
+        "province": "BC"
+    },
+    "s0000010": {
+        "english_name": "Little Grand Rapids",
+        "french_name": "Little Grand Rapids",
+        "province": "MB"
+    },
+    "s0000011": {
+        "english_name": "Oxford House",
+        "french_name": "Oxford House",
+        "province": "MB"
+    },
+    "s0000012": {
+        "english_name": "Bissett",
+        "french_name": "Bissett",
+        "province": "MB"
+    },
+    "s0000013": {
+        "english_name": "Shamattawa",
+        "french_name": "Shamattawa",
+        "province": "MB"
+    },
+    "s0000014": {
+        "english_name": "York Factory",
+        "french_name": "York Factory",
+        "province": "MB"
+    },
+    "s0000015": {
+        "english_name": "Flin Flon",
+        "french_name": "Flin Flon",
+        "province": "MB"
+    },
+    "s0000016": {
+        "english_name": "Musgrave Harbour",
+        "french_name": "Musgrave Harbour",
+        "province": "NL"
+    },
+    "s0000017": {
+        "english_name": "New-Wes-Valley",
+        "french_name": "New-Wes-Valley",
+        "province": "NL"
+    },
+    "s0000018": {
+        "english_name": "Bay Roberts",
+        "french_name": "Bay Roberts",
+        "province": "NL"
+    },
+    "s0000019": {
+        "english_name": "St. Alban's",
+        "french_name": "St. Alban's",
+        "province": "NL"
+    },
+    "s0000020": {
+        "english_name": "Fourchu Head",
+        "french_name": "Cap Fourchu",
+        "province": "NS"
+    },
+    "s0000021": {
+        "english_name": "North Mountain (Cape Breton)",
+        "french_name": "North Mountain (Cap-Breton)",
+        "province": "NS"
+    },
+    "s0000022": {
+        "english_name": "Marathon",
+        "french_name": "Marathon",
+        "province": "ON"
+    },
+    "s0000023": {
+        "english_name": "Terrace Bay",
+        "french_name": "Terrace Bay",
+        "province": "ON"
+    },
+    "s0000024": {
+        "english_name": "Attawapiskat",
+        "french_name": "Attawapiskat",
+        "province": "ON"
+    },
+    "s0000025": {
+        "english_name": "Gogama",
+        "french_name": "Gogama",
+        "province": "ON"
+    },
+    "s0000026": {
+        "english_name": "Maple Plains",
+        "french_name": "Maple Plains",
+        "province": "PE"
+    },
+    "s0000027": {
+        "english_name": "Murdochville",
+        "french_name": "Murdochville",
+        "province": "QC"
+    },
+    "s0000028": {
+        "english_name": "Escoumins",
+        "french_name": "Escoumins",
+        "province": "QC"
+    },
+    "s0000029": {
+        "english_name": "Saint-Michel-des-Saints",
+        "french_name": "Saint-Michel-des-Saints",
+        "province": "QC"
+    },
+    "s0000030": {
+        "english_name": "Rancheria",
+        "french_name": "Rancheria",
+        "province": "YT"
+    },
+    "s0000031": {
+        "english_name": "Dempster (Highway)",
+        "french_name": "Dempster (Route)",
+        "province": "YT"
+    },
+    "s0000032": {
+        "english_name": "Burgeo",
+        "french_name": "Burgeo",
+        "province": "NL"
+    },
+    "s0000033": {
+        "english_name": "Bouctouche",
+        "french_name": "Bouctouche",
+        "province": "NB"
+    },
+    "s0000034": {
+        "english_name": "Richibucto",
+        "french_name": "Richibucto",
+        "province": "NB"
+    },
+    "s0000035": {
+        "english_name": "Rogersville",
+        "french_name": "Rogersville",
+        "province": "NB"
+    },
+    "s0000036": {
+        "english_name": "Miramichi",
+        "french_name": "Miramichi",
+        "province": "NB"
+    },
+    "s0000037": {
+        "english_name": "Point Escuminac",
+        "french_name": "Point Escuminac",
+        "province": "NB"
+    },
+    "s0000038": {
+        "english_name": "Kouchibouguac",
+        "french_name": "Kouchibouguac",
+        "province": "NB"
+    },
+    "s0000039": {
+        "english_name": "St. Lawrence",
+        "french_name": "St. Lawrence",
+        "province": "NL"
+    },
+    "s0000040": {
+        "english_name": "Parrsboro",
+        "french_name": "Parrsboro",
+        "province": "NS"
+    },
+    "s0000041": {
+        "english_name": "Bonavista",
+        "french_name": "Bonavista",
+        "province": "NL"
+    },
+    "s0000042": {
+        "english_name": "Wreckhouse",
+        "french_name": "Wreckhouse",
+        "province": "NL"
+    },
+    "s0000043": {
+        "english_name": "Edmundston",
+        "french_name": "Edmundston",
+        "province": "NB"
+    },
+    "s0000044": {
+        "english_name": "Beauharnois",
+        "french_name": "Beauharnois",
+        "province": "QC"
+    },
+    "s0000045": {
+        "english_name": "Edmonton",
+        "french_name": "Edmonton",
+        "province": "AB"
+    },
+    "s0000046": {
+        "english_name": "Candiac",
+        "french_name": "Candiac",
+        "province": "QC"
+    },
+    "s0000047": {
+        "english_name": "Calgary",
+        "french_name": "Calgary",
+        "province": "AB"
+    },
+    "s0000048": {
+        "english_name": "La Prairie",
+        "french_name": "La Prairie",
+        "province": "QC"
+    },
+    "s0000049": {
+        "english_name": "Saint-Constant",
+        "french_name": "Saint-Constant",
+        "province": "QC"
+    },
+    "s0000050": {
+        "english_name": "Sainte-Catherine",
+        "french_name": "Sainte-Catherine",
+        "province": "QC"
+    },
+    "s0000051": {
+        "english_name": "Saint-Rémi",
+        "french_name": "Saint-Rémi",
+        "province": "QC"
+    },
+    "s0000052": {
+        "english_name": "Granby",
+        "french_name": "Granby",
+        "province": "QC"
+    },
+    "s0000053": {
+        "english_name": "Cowansville",
+        "french_name": "Cowansville",
+        "province": "QC"
+    },
+    "s0000054": {
+        "english_name": "Victoriaville",
+        "french_name": "Victoriaville",
+        "province": "QC"
+    },
+    "s0000055": {
+        "english_name": "Prévost",
+        "french_name": "Prévost",
+        "province": "QC"
+    },
+    "s0000056": {
+        "english_name": "Sainte-Sophie",
+        "french_name": "Sainte-Sophie",
+        "province": "QC"
+    },
+    "s0000057": {
+        "english_name": "Saint-Lin-Laurentides",
+        "french_name": "Saint-Lin-Laurentides",
+        "province": "QC"
+    },
+    "s0000058": {
+        "english_name": "Saint-Sauveur",
+        "french_name": "Saint-Sauveur",
+        "province": "QC"
+    },
+    "s0000059": {
+        "english_name": "Saint-Hyacinthe",
+        "french_name": "Saint-Hyacinthe",
+        "province": "QC"
+    },
+    "s0000060": {
+        "english_name": "Marieville",
+        "french_name": "Marieville",
+        "province": "QC"
+    },
+    "s0000061": {
+        "english_name": "Rigaud",
+        "french_name": "Rigaud",
+        "province": "QC"
+    },
+    "s0000062": {
+        "english_name": "Saint-Lazare",
+        "french_name": "Saint-Lazare",
+        "province": "QC"
+    },
+    "s0000063": {
+        "english_name": "Farnham",
+        "french_name": "Farnham",
+        "province": "QC"
+    },
+    "s0000064": {
+        "english_name": "Thetford Mines",
+        "french_name": "Thetford Mines",
+        "province": "QC"
+    },
+    "s0000065": {
+        "english_name": "Kugaaruk",
+        "french_name": "Kugaaruk",
+        "province": "NU"
+    },
+    "s0000066": {
+        "english_name": "Highvale",
+        "french_name": "Highvale",
+        "province": "AB"
+    },
+    "s0000067": {
+        "english_name": "Pelican Narrows",
+        "french_name": "Pelican Narrows",
+        "province": "SK"
+    },
+    "s0000068": {
+        "english_name": "Strathmore",
+        "french_name": "Strathmore",
+        "province": "AB"
+    },
+    "s0000069": {
+        "english_name": "Hawkesbury",
+        "french_name": "Hawkesbury",
+        "province": "ON"
+    },
+    "s0000070": {
+        "english_name": "Alexandria",
+        "french_name": "Alexandria",
+        "province": "ON"
+    },
+    "s0000071": {
+        "english_name": "Cornwall",
+        "french_name": "Cornwall",
+        "province": "ON"
+    },
+    "s0000072": {
+        "english_name": "Morrisburg",
+        "french_name": "Morrisburg",
+        "province": "ON"
+    },
+    "s0000073": {
+        "english_name": "Algonquin Park (Brent)",
+        "french_name": "Parc Algonquin (Brent)",
+        "province": "ON"
+    },
+    "s0000074": {
+        "english_name": "Algonquin Park (Lake of Two Rivers)",
+        "french_name": "Parc Algonquin (Lake of Two Rivers)",
+        "province": "ON"
+    },
+    "s0000075": {
+        "english_name": "Oxtongue Lake",
+        "french_name": "Oxtongue Lake",
+        "province": "ON"
+    },
+    "s0000076": {
+        "english_name": "Welland",
+        "french_name": "Welland",
+        "province": "ON"
+    },
+    "s0000077": {
+        "english_name": "Winchester",
+        "french_name": "Winchester",
+        "province": "ON"
+    },
+    "s0000078": {
+        "english_name": "Whistler",
+        "french_name": "Whistler",
+        "province": "BC"
+    },
+    "s0000079": {
+        "english_name": "La Scie",
+        "french_name": "La Scie",
+        "province": "NL"
+    },
+    "s0000080": {
+        "english_name": "Rondeau (Provincial Park)",
+        "french_name": "Rondeau (Parc provincial)",
+        "province": "ON"
+    },
+    "s0000081": {
+        "english_name": "Coronach",
+        "french_name": "Coronach",
+        "province": "SK"
+    },
+    "s0000082": {
+        "english_name": "Placentia",
+        "french_name": "Placentia",
+        "province": "NL"
+    },
+    "s0000083": {
+        "english_name": "Sundre",
+        "french_name": "Sundre",
+        "province": "AB"
+    },
+    "s0000084": {
+        "english_name": "Halifax (Shearwater)",
+        "french_name": "Halifax (Shearwater)",
+        "province": "NS"
+    },
+    "s0000085": {
+        "english_name": "Témiscamingue",
+        "french_name": "Témiscamingue",
+        "province": "QC"
+    },
+    "s0000086": {
+        "english_name": "Indian Head",
+        "french_name": "Indian Head",
+        "province": "SK"
+    },
+    "s0000087": {
+        "english_name": "Fort Qu'Appelle",
+        "french_name": "Fort Qu'Appelle",
+        "province": "SK"
+    },
+    "s0000088": {
+        "english_name": "Killarney",
+        "french_name": "Killarney",
+        "province": "ON"
+    },
+    "s0000089": {
+        "english_name": "New Glasgow",
+        "french_name": "New Glasgow",
+        "province": "NS"
+    },
+    "s0000090": {
+        "english_name": "Caribou",
+        "french_name": "Caribou",
+        "province": "NS"
+    },
+    "s0000091": {
+        "english_name": "Bachelors Island",
+        "french_name": "Bachelors Island",
+        "province": "MB"
+    },
+    "s0000092": {
+        "english_name": "Beaverlodge",
+        "french_name": "Beaverlodge",
+        "province": "AB"
+    },
+    "s0000093": {
+        "english_name": "Brooks",
+        "french_name": "Brooks",
+        "province": "AB"
+    },
+    "s0000094": {
+        "english_name": "Mingan",
+        "french_name": "Mingan",
+        "province": "QC"
+    },
+    "s0000095": {
+        "english_name": "Nipawin",
+        "french_name": "Nipawin",
+        "province": "SK"
+    },
+    "s0000096": {
+        "english_name": "Beaver Island",
+        "french_name": "Beaver Island",
+        "province": "NS"
+    },
+    "s0000097": {
+        "english_name": "Port-Menier",
+        "french_name": "Port-Menier",
+        "province": "QC"
+    },
+    "s0000098": {
+        "english_name": "Salaberry-de-Valleyfield",
+        "french_name": "Salaberry-de-Valleyfield",
+        "province": "QC"
+    },
+    "s0000099": {
+        "english_name": "Huntingdon",
+        "french_name": "Huntingdon",
+        "province": "QC"
+    },
+    "s0000100": {
+        "english_name": "Cartwright",
+        "french_name": "Cartwright",
+        "province": "NL"
+    },
+    "s0000101": {
+        "english_name": "Bloodvein",
+        "french_name": "Bloodvein",
+        "province": "MB"
+    },
+    "s0000102": {
+        "english_name": "Berens River",
+        "french_name": "Berens River",
+        "province": "MB"
+    },
+    "s0000103": {
+        "english_name": "Atikokan",
+        "french_name": "Atikokan",
+        "province": "ON"
+    },
+    "s0000104": {
+        "english_name": "Fort Frances",
+        "french_name": "Fort Frances",
+        "province": "ON"
+    },
+    "s0000105": {
+        "english_name": "Mine Centre",
+        "french_name": "Mine Centre",
+        "province": "ON"
+    },
+    "s0000106": {
+        "english_name": "100 Mile House",
+        "french_name": "100 Mile House",
+        "province": "BC"
+    },
+    "s0000107": {
+        "english_name": "Clinton",
+        "french_name": "Clinton",
+        "province": "BC"
+    },
+    "s0000108": {
+        "english_name": "Collingwood",
+        "french_name": "Collingwood",
+        "province": "ON"
+    },
+    "s0000109": {
+        "english_name": "Shelburne",
+        "french_name": "Shelburne",
+        "province": "NS"
+    },
+    "s0000110": {
+        "english_name": "Baccaro Point",
+        "french_name": "Cap Baccaro",
+        "province": "NS"
+    },
+    "s0000111": {
+        "english_name": "Coronation",
+        "french_name": "Coronation",
+        "province": "AB"
+    },
+    "s0000112": {
+        "english_name": "Englee",
+        "french_name": "Englee",
+        "province": "NL"
+    },
+    "s0000113": {
+        "english_name": "Uranium City",
+        "french_name": "Uranium City",
+        "province": "SK"
+    },
+    "s0000114": {
+        "english_name": "Port au Choix",
+        "french_name": "Port-au-Choix",
+        "province": "NL"
+    },
+    "s0000115": {
+        "english_name": "Daniel's Harbour",
+        "french_name": "Daniel's Harbour",
+        "province": "NL"
+    },
+    "s0000116": {
+        "english_name": "Badger",
+        "french_name": "Badger",
+        "province": "NL"
+    },
+    "s0000117": {
+        "english_name": "Buchans",
+        "french_name": "Buchans",
+        "province": "NL"
+    },
+    "s0000118": {
+        "english_name": "Grand Falls-Windsor",
+        "french_name": "Grand Falls-Windsor",
+        "province": "NL"
+    },
+    "s0000119": {
+        "english_name": "Willow Creek (Provincial Park)",
+        "french_name": "Willow Creek (Parc provincial)",
+        "province": "AB"
+    },
+    "s0000120": {
+        "english_name": "Claresholm",
+        "french_name": "Claresholm",
+        "province": "AB"
+    },
+    "s0000121": {
+        "english_name": "Chevery",
+        "french_name": "Chevery",
+        "province": "QC"
+    },
+    "s0000122": {
+        "english_name": "Twillingate",
+        "french_name": "Twillingate",
+        "province": "NL"
+    },
+    "s0000123": {
+        "english_name": "Manicouagan",
+        "french_name": "Manicouagan",
+        "province": "QC"
+    },
+    "s0000124": {
+        "english_name": "La Tuque",
+        "french_name": "La Tuque",
+        "province": "QC"
+    },
+    "s0000125": {
+        "english_name": "Mauricie",
+        "french_name": "Mauricie",
+        "province": "QC"
+    },
+    "s0000126": {
+        "english_name": "Calgary (Olympic Park)",
+        "french_name": "Calgary (Parc Olympique)",
+        "province": "AB"
+    },
+    "s0000127": {
+        "english_name": "Upsala",
+        "french_name": "Upsala",
+        "province": "ON"
+    },
+    "s0000128": {
+        "english_name": "St. Anthony",
+        "french_name": "St. Anthony",
+        "province": "NL"
+    },
+    "s0000129": {
+        "english_name": "Drumheller",
+        "french_name": "Drumheller",
+        "province": "AB"
+    },
+    "s0000130": {
+        "english_name": "Pinawa",
+        "french_name": "Pinawa",
+        "province": "MB"
+    },
+    "s0000131": {
+        "english_name": "Whiteshell",
+        "french_name": "Whiteshell",
+        "province": "MB"
+    },
+    "s0000132": {
+        "english_name": "Estevan Point",
+        "french_name": "Estevan Point",
+        "province": "BC"
+    },
+    "s0000133": {
+        "english_name": "Shaunavon",
+        "french_name": "Shaunavon",
+        "province": "SK"
+    },
+    "s0000134": {
+        "english_name": "Eastend",
+        "french_name": "Eastend",
+        "province": "SK"
+    },
+    "s0000135": {
+        "english_name": "Virden",
+        "french_name": "Virden",
+        "province": "MB"
+    },
+    "s0000136": {
+        "english_name": "Melita",
+        "french_name": "Melita",
+        "province": "MB"
+    },
+    "s0000137": {
+        "english_name": "Turtle Mountain (Provincial Park)",
+        "french_name": "Turtle Mountain (Parc provincial)",
+        "province": "MB"
+    },
+    "s0000138": {
+        "english_name": "East Point",
+        "french_name": "East Point",
+        "province": "PE"
+    },
+    "s0000139": {
+        "english_name": "Swan River",
+        "french_name": "Swan River",
+        "province": "MB"
+    },
+    "s0000140": {
+        "english_name": "Eureka",
+        "french_name": "Eureka",
+        "province": "NU"
+    },
+    "s0000141": {
+        "english_name": "Vancouver",
+        "french_name": "Vancouver",
+        "province": "BC"
+    },
+    "s0000142": {
+        "english_name": "L'Assomption",
+        "french_name": "L'Assomption",
+        "province": "QC"
+    },
+    "s0000143": {
+        "english_name": "Berthierville",
+        "french_name": "Berthierville",
+        "province": "QC"
+    },
+    "s0000144": {
+        "english_name": "Contrecoeur",
+        "french_name": "Contrecoeur",
+        "province": "QC"
+    },
+    "s0000145": {
+        "english_name": "Mascouche",
+        "french_name": "Mascouche",
+        "province": "QC"
+    },
+    "s0000146": {
+        "english_name": "Prince George",
+        "french_name": "Prince George",
+        "province": "BC"
+    },
+    "s0000147": {
+        "english_name": "Sorel-Tracy",
+        "french_name": "Sorel-Tracy",
+        "province": "QC"
+    },
+    "s0000148": {
+        "english_name": "Tracy",
+        "french_name": "Tracy",
+        "province": "QC"
+    },
+    "s0000149": {
+        "english_name": "Le Gardeur",
+        "french_name": "Le Gardeur",
+        "province": "QC"
+    },
+    "s0000150": {
+        "english_name": "Morris",
+        "french_name": "Morris",
+        "province": "MB"
+    },
+    "s0000151": {
+        "english_name": "Steinbach",
+        "french_name": "Steinbach",
+        "province": "MB"
+    },
+    "s0000152": {
+        "english_name": "Dominion City",
+        "french_name": "Dominion City",
+        "province": "MB"
+    },
+    "s0000153": {
+        "english_name": "Emerson",
+        "french_name": "Emerson",
+        "province": "MB"
+    },
+    "s0000154": {
+        "english_name": "Vita",
+        "french_name": "Vita",
+        "province": "MB"
+    },
+    "s0000155": {
+        "english_name": "Gulf Islands (Southern)",
+        "french_name": "Gulf Islands (Secteur sud)",
+        "province": "BC"
+    },
+    "s0000156": {
+        "english_name": "Elk Island (National Park)",
+        "french_name": "Elk Island (Parc national)",
+        "province": "AB"
+    },
+    "s0000157": {
+        "english_name": "Tisdale",
+        "french_name": "Tisdale",
+        "province": "SK"
+    },
+    "s0000158": {
+        "english_name": "Melfort",
+        "french_name": "Melfort",
+        "province": "SK"
+    },
+    "s0000159": {
+        "english_name": "Cardston",
+        "french_name": "Cardston",
+        "province": "AB"
+    },
+    "s0000160": {
+        "english_name": "Snow Lake",
+        "french_name": "Snow Lake",
+        "province": "MB"
+    },
+    "s0000161": {
+        "english_name": "Pukatawagan",
+        "french_name": "Pukatawagan",
+        "province": "MB"
+    },
+    "s0000162": {
+        "english_name": "Nain",
+        "french_name": "Nain",
+        "province": "NL"
+    },
+    "s0000163": {
+        "english_name": "Sutton",
+        "french_name": "Sutton",
+        "province": "QC"
+    },
+    "s0000164": {
+        "english_name": "Colville Lake",
+        "french_name": "Colville Lake",
+        "province": "NT"
+    },
+    "s0000165": {
+        "english_name": "Goderich",
+        "french_name": "Goderich",
+        "province": "ON"
+    },
+    "s0000166": {
+        "english_name": "Kincardine",
+        "french_name": "Kincardine",
+        "province": "ON"
+    },
+    "s0000167": {
+        "english_name": "Garden Creek",
+        "french_name": "Garden Creek",
+        "province": "AB"
+    },
+    "s0000168": {
+        "english_name": "Brockville",
+        "french_name": "Brockville",
+        "province": "ON"
+    },
+    "s0000169": {
+        "english_name": "Gananoque",
+        "french_name": "Gananoque",
+        "province": "ON"
+    },
+    "s0000170": {
+        "english_name": "Waterton Park",
+        "french_name": "Parc Waterton",
+        "province": "AB"
+    },
+    "s0000171": {
+        "english_name": "Altona",
+        "french_name": "Altona",
+        "province": "MB"
+    },
+    "s0000172": {
+        "english_name": "Gretna",
+        "french_name": "Gretna",
+        "province": "MB"
+    },
+    "s0000173": {
+        "english_name": "Pemberton",
+        "french_name": "Pemberton",
+        "province": "BC"
+    },
+    "s0000174": {
+        "english_name": "Îles-de-la-Madeleine",
+        "french_name": "Îles-de-la-Madeleine",
+        "province": "QC"
+    },
+    "s0000175": {
+        "english_name": "Sparwood",
+        "french_name": "Sparwood",
+        "province": "BC"
+    },
+    "s0000176": {
+        "english_name": "Esther",
+        "french_name": "Esther",
+        "province": "AB"
+    },
+    "s0000177": {
+        "english_name": "Grise Fiord",
+        "french_name": "Grise Fiord",
+        "province": "NU"
+    },
+    "s0000178": {
+        "english_name": "Hunters Point",
+        "french_name": "Hunters Point",
+        "province": "MB"
+    },
+    "s0000179": {
+        "english_name": "Three Hills",
+        "french_name": "Three Hills",
+        "province": "AB"
+    },
+    "s0000180": {
+        "english_name": "Varennes",
+        "french_name": "Varennes",
+        "province": "QC"
+    },
+    "s0000181": {
+        "english_name": "Hopedale",
+        "french_name": "Hopedale",
+        "province": "NL"
+    },
+    "s0000182": {
+        "english_name": "Donnacona",
+        "french_name": "Donnacona",
+        "province": "QC"
+    },
+    "s0000183": {
+        "english_name": "Haines Junction",
+        "french_name": "Haines Junction",
+        "province": "YT"
+    },
+    "s0000185": {
+        "english_name": "Beauceville",
+        "french_name": "Beauceville",
+        "province": "QC"
+    },
+    "s0000186": {
+        "english_name": "Lac-Mégantic",
+        "french_name": "Lac-Mégantic",
+        "province": "QC"
+    },
+    "s0000187": {
+        "english_name": "Saint-Georges",
+        "french_name": "Saint-Georges",
+        "province": "QC"
+    },
+    "s0000188": {
+        "english_name": "Fort Providence",
+        "french_name": "Fort Providence",
+        "province": "NT"
+    },
+    "s0000189": {
+        "english_name": "Pine Falls",
+        "french_name": "Pine Falls",
+        "province": "MB"
+    },
+    "s0000190": {
+        "english_name": "Victoria Beach",
+        "french_name": "Victoria Beach",
+        "province": "MB"
+    },
+    "s0000191": {
+        "english_name": "Grand Beach",
+        "french_name": "Grand Beach",
+        "province": "MB"
+    },
+    "s0000192": {
+        "english_name": "Broadview",
+        "french_name": "Broadview",
+        "province": "SK"
+    },
+    "s0000193": {
+        "english_name": "Winnipeg",
+        "french_name": "Winnipeg",
+        "province": "MB"
+    },
+    "s0000194": {
+        "english_name": "Charlevoix",
+        "french_name": "Charlevoix",
+        "province": "QC"
+    },
+    "s0000195": {
+        "english_name": "Watrous",
+        "french_name": "Watrous",
+        "province": "SK"
+    },
+    "s0000196": {
+        "english_name": "Humboldt",
+        "french_name": "Humboldt",
+        "province": "SK"
+    },
+    "s0000197": {
+        "english_name": "Alma",
+        "french_name": "Alma",
+        "province": "QC"
+    },
+    "s0000198": {
+        "english_name": "Mount Carleton (Provincial Park)",
+        "french_name": "Mont Carleton (Parc provincial)",
+        "province": "NB"
+    },
+    "s0000199": {
+        "english_name": "Saint-Quentin",
+        "french_name": "Saint-Quentin",
+        "province": "NB"
+    },
+    "s0000200": {
+        "english_name": "St. Leonard",
+        "french_name": "St. Leonard",
+        "province": "NB"
+    },
+    "s0000201": {
+        "english_name": "Grand Falls",
+        "french_name": "Grand-Sault",
+        "province": "NB"
+    },
+    "s0000202": {
+        "english_name": "Saint-Jean-sur-Richelieu",
+        "french_name": "Saint-Jean-sur-Richelieu",
+        "province": "QC"
+    },
+    "s0000203": {
+        "english_name": "Saint-Luc",
+        "french_name": "Saint-Luc",
+        "province": "QC"
+    },
+    "s0000204": {
+        "english_name": "Vanier",
+        "french_name": "Vanier",
+        "province": "QC"
+    },
+    "s0000205": {
+        "english_name": "Bernières",
+        "french_name": "Bernières",
+        "province": "QC"
+    },
+    "s0000206": {
+        "english_name": "Ennadai",
+        "french_name": "Ennadai",
+        "province": "NU"
+    },
+    "s0000207": {
+        "english_name": "Grand Rapids",
+        "french_name": "Grand Rapids",
+        "province": "MB"
+    },
+    "s0000208": {
+        "english_name": "Southend Reindeer",
+        "french_name": "Southend Reindeer",
+        "province": "SK"
+    },
+    "s0000209": {
+        "english_name": "Assiniboia",
+        "french_name": "Assiniboia",
+        "province": "SK"
+    },
+    "s0000210": {
+        "english_name": "Fort Liard",
+        "french_name": "Fort Liard",
+        "province": "NT"
+    },
+    "s0000211": {
+        "english_name": "Saguenay",
+        "french_name": "Saguenay",
+        "province": "QC"
+    },
+    "s0000212": {
+        "english_name": "Creston",
+        "french_name": "Creston",
+        "province": "BC"
+    },
+    "s0000213": {
+        "english_name": "Mont-Tremblant",
+        "french_name": "Mont-Tremblant",
+        "province": "QC"
+    },
+    "s0000214": {
+        "english_name": "Sainte-Agathe",
+        "french_name": "Sainte-Agathe",
+        "province": "QC"
+    },
+    "s0000216": {
+        "english_name": "Vernon",
+        "french_name": "Vernon",
+        "province": "BC"
+    },
+    "s0000217": {
+        "english_name": "Hinton",
+        "french_name": "Hinton",
+        "province": "AB"
+    },
+    "s0000218": {
+        "english_name": "Jasper",
+        "french_name": "Jasper",
+        "province": "AB"
+    },
+    "s0000219": {
+        "english_name": "Leader",
+        "french_name": "Leader",
+        "province": "SK"
+    },
+    "s0000220": {
+        "english_name": "Marble Mountain",
+        "french_name": "Marble Mountain",
+        "province": "NL"
+    },
+    "s0000221": {
+        "english_name": "Corner Brook",
+        "french_name": "Corner Brook",
+        "province": "NL"
+    },
+    "s0000222": {
+        "english_name": "Lillooet",
+        "french_name": "Lillooet",
+        "province": "BC"
+    },
+    "s0000223": {
+        "english_name": "Kejimkujik (National Park)",
+        "french_name": "Kejimkujik (Parc national)",
+        "province": "NS"
+    },
+    "s0000224": {
+        "english_name": "Malahat",
+        "french_name": "Malahat",
+        "province": "BC"
+    },
+    "s0000225": {
+        "english_name": "Rockglen",
+        "french_name": "Rockglen",
+        "province": "SK"
+    },
+    "s0000226": {
+        "english_name": "Hope Slide",
+        "french_name": "Hope Slide",
+        "province": "BC"
+    },
+    "s0000227": {
+        "english_name": "Dease Lake",
+        "french_name": "Dease Lake",
+        "province": "BC"
+    },
+    "s0000228": {
+        "english_name": "Cassiar",
+        "french_name": "Cassiar",
+        "province": "BC"
+    },
+    "s0000229": {
+        "english_name": "Lac La Biche",
+        "french_name": "Lac La Biche",
+        "province": "AB"
+    },
+    "s0000230": {
+        "english_name": "Lucky Lake",
+        "french_name": "Lucky Lake",
+        "province": "SK"
+    },
+    "s0000231": {
+        "english_name": "Ogoki",
+        "french_name": "Ogoki",
+        "province": "ON"
+    },
+    "s0000232": {
+        "english_name": "Webequie",
+        "french_name": "Webequie",
+        "province": "ON"
+    },
+    "s0000233": {
+        "english_name": "Lansdowne House",
+        "french_name": "Lansdowne House",
+        "province": "ON"
+    },
+    "s0000234": {
+        "english_name": "Gonzales Point",
+        "french_name": "Gonzales Point",
+        "province": "BC"
+    },
+    "s0000235": {
+        "english_name": "Wingham",
+        "french_name": "Wingham",
+        "province": "ON"
+    },
+    "s0000236": {
+        "english_name": "Walkerton",
+        "french_name": "Walkerton",
+        "province": "ON"
+    },
+    "s0000237": {
+        "english_name": "Dundalk",
+        "french_name": "Dundalk",
+        "province": "ON"
+    },
+    "s0000238": {
+        "english_name": "North Perth",
+        "french_name": "North Perth",
+        "province": "ON"
+    },
+    "s0000239": {
+        "english_name": "Shelburne",
+        "french_name": "Shelburne",
+        "province": "ON"
+    },
+    "s0000240": {
+        "english_name": "Mount Forest",
+        "french_name": "Mount Forest",
+        "province": "ON"
+    },
+    "s0000241": {
+        "english_name": "Waskesiu Lake",
+        "french_name": "Waskesiu Lake",
+        "province": "SK"
+    },
+    "s0000242": {
+        "english_name": "Lytton",
+        "french_name": "Lytton",
+        "province": "BC"
+    },
+    "s0000243": {
+        "english_name": "Miscou Island",
+        "french_name": "Miscou Island",
+        "province": "NB"
+    },
+    "s0000244": {
+        "english_name": "Maniwaki",
+        "french_name": "Maniwaki",
+        "province": "QC"
+    },
+    "s0000245": {
+        "english_name": "La Vérendrye (Réserve faunique)",
+        "french_name": "La Vérendrye (Réserve faunique)",
+        "province": "QC"
+    },
+    "s0000246": {
+        "english_name": "Mont-Laurier",
+        "french_name": "Mont-Laurier",
+        "province": "QC"
+    },
+    "s0000247": {
+        "english_name": "Pitt Meadows",
+        "french_name": "Pitt Meadows",
+        "province": "BC"
+    },
+    "s0000248": {
+        "english_name": "Maple Creek",
+        "french_name": "Maple Creek",
+        "province": "SK"
+    },
+    "s0000249": {
+        "english_name": "Whati",
+        "french_name": "Whati",
+        "province": "NT"
+    },
+    "s0000250": {
+        "english_name": "Fredericton",
+        "french_name": "Fredericton",
+        "province": "NB"
+    },
+    "s0000251": {
+        "english_name": "Cobourg",
+        "french_name": "Cobourg",
+        "province": "ON"
+    },
+    "s0000252": {
+        "english_name": "North Cape",
+        "french_name": "North Cape",
+        "province": "PE"
+    },
+    "s0000253": {
+        "english_name": "Rivière-du-Loup",
+        "french_name": "Rivière-du-Loup",
+        "province": "QC"
+    },
+    "s0000254": {
+        "english_name": "Trois-Pistoles",
+        "french_name": "Trois-Pistoles",
+        "province": "QC"
+    },
+    "s0000255": {
+        "english_name": "Temiscouata",
+        "french_name": "Témiscouata",
+        "province": "QC"
+    },
+    "s0000256": {
+        "english_name": "Deerwood",
+        "french_name": "Deerwood",
+        "province": "MB"
+    },
+    "s0000257": {
+        "english_name": "Carman",
+        "french_name": "Carman",
+        "province": "MB"
+    },
+    "s0000258": {
+        "english_name": "Nelson",
+        "french_name": "Nelson",
+        "province": "BC"
+    },
+    "s0000259": {
+        "english_name": "Nakusp",
+        "french_name": "Nakusp",
+        "province": "BC"
+    },
+    "s0000260": {
+        "english_name": "Nicolet",
+        "french_name": "Nicolet",
+        "province": "QC"
+    },
+    "s0000261": {
+        "english_name": "Drummondville",
+        "french_name": "Drummondville",
+        "province": "QC"
+    },
+    "s0000262": {
+        "english_name": "Saint-Nicéphore",
+        "french_name": "Saint-Nicéphore",
+        "province": "QC"
+    },
+    "s0000263": {
+        "english_name": "Kananaskis (Nakiska Ridgetop)",
+        "french_name": "Kananaskis (Nakiska Ridgetop)",
+        "province": "AB"
+    },
+    "s0000264": {
+        "english_name": "North East Margaree",
+        "french_name": "North East Margaree",
+        "province": "NS"
+    },
+    "s0000265": {
+        "english_name": "Baddeck",
+        "french_name": "Baddeck",
+        "province": "NS"
+    },
+    "s0000266": {
+        "english_name": "Hearst",
+        "french_name": "Hearst",
+        "province": "ON"
+    },
+    "s0000267": {
+        "english_name": "Hornepayne",
+        "french_name": "Hornepayne",
+        "province": "ON"
+    },
+    "s0000268": {
+        "english_name": "New Carlisle",
+        "french_name": "New Carlisle",
+        "province": "QC"
+    },
+    "s0000269": {
+        "english_name": "Bonaventure",
+        "french_name": "Bonaventure",
+        "province": "QC"
+    },
+    "s0000270": {
+        "english_name": "Dolbeau-Mistassini",
+        "french_name": "Dolbeau-Mistassini",
+        "province": "QC"
+    },
+    "s0000272": {
+        "english_name": "Onefour",
+        "french_name": "Onefour",
+        "province": "AB"
+    },
+    "s0000273": {
+        "english_name": "Oak Point",
+        "french_name": "Oak Point",
+        "province": "MB"
+    },
+    "s0000274": {
+        "english_name": "Elbow",
+        "french_name": "Elbow",
+        "province": "SK"
+    },
+    "s0000275": {
+        "english_name": "Dawson",
+        "french_name": "Dawson",
+        "province": "YT"
+    },
+    "s0000276": {
+        "english_name": "McCreary",
+        "french_name": "McCreary",
+        "province": "MB"
+    },
+    "s0000277": {
+        "english_name": "Breton",
+        "french_name": "Breton",
+        "province": "AB"
+    },
+    "s0000278": {
+        "english_name": "Wynyard",
+        "french_name": "Wynyard",
+        "province": "SK"
+    },
+    "s0000279": {
+        "english_name": "Hendrickson Creek",
+        "french_name": "Hendrickson Creek",
+        "province": "AB"
+    },
+    "s0000280": {
+        "english_name": "St. John's",
+        "french_name": "St. John's",
+        "province": "NL"
+    },
+    "s0000281": {
+        "english_name": "Midland",
+        "french_name": "Midland",
+        "province": "ON"
+    },
+    "s0000282": {
+        "english_name": "Fort Erie",
+        "french_name": "Fort Erie",
+        "province": "ON"
+    },
+    "s0000283": {
+        "english_name": "Port Colborne",
+        "french_name": "Port Colborne",
+        "province": "ON"
+    },
+    "s0000284": {
+        "english_name": "Laurentides (Réserve faunique)",
+        "french_name": "Laurentides (Réserve faunique)",
+        "province": "QC"
+    },
+    "s0000285": {
+        "english_name": "Point Lepreau",
+        "french_name": "Point Lepreau",
+        "province": "NB"
+    },
+    "s0000286": {
+        "english_name": "Esquimalt",
+        "french_name": "Esquimalt",
+        "province": "BC"
+    },
+    "s0000287": {
+        "english_name": "Parent",
+        "french_name": "Parent",
+        "province": "QC"
+    },
+    "s0000288": {
+        "english_name": "Gouin (Réservoir)",
+        "french_name": "Gouin (Réservoir)",
+        "province": "QC"
+    },
+    "s0000289": {
+        "english_name": "Pilot Mound",
+        "french_name": "Pilot Mound",
+        "province": "MB"
+    },
+    "s0000290": {
+        "english_name": "Terrebonne",
+        "french_name": "Terrebonne",
+        "province": "QC"
+    },
+    "s0000291": {
+        "english_name": "Princeton",
+        "french_name": "Princeton",
+        "province": "BC"
+    },
+    "s0000292": {
+        "english_name": "Puntzi Mountain",
+        "french_name": "Puntzi Mountain",
+        "province": "BC"
+    },
+    "s0000293": {
+        "english_name": "Burns Lake",
+        "french_name": "Burns Lake",
+        "province": "BC"
+    },
+    "s0000294": {
+        "english_name": "Port Alberni",
+        "french_name": "Port Alberni",
+        "province": "BC"
+    },
+    "s0000295": {
+        "english_name": "Tadoussac",
+        "french_name": "Tadoussac",
+        "province": "QC"
+    },
+    "s0000296": {
+        "english_name": "Coaticook",
+        "french_name": "Coaticook",
+        "province": "QC"
+    },
+    "s0000297": {
+        "english_name": "Lacombe",
+        "french_name": "Lacombe",
+        "province": "AB"
+    },
+    "s0000298": {
+        "english_name": "Cape Race",
+        "french_name": "Cape Race",
+        "province": "NL"
+    },
+    "s0000299": {
+        "english_name": "Red Earth Creek",
+        "french_name": "Red Earth Creek",
+        "province": "AB"
+    },
+    "s0000300": {
+        "english_name": "Rosetown",
+        "french_name": "Rosetown",
+        "province": "SK"
+    },
+    "s0000301": {
+        "english_name": "Bancroft",
+        "french_name": "Bancroft",
+        "province": "ON"
+    },
+    "s0000302": {
+        "english_name": "Barry's Bay",
+        "french_name": "Barry's Bay",
+        "province": "ON"
+    },
+    "s0000303": {
+        "english_name": "Haliburton",
+        "french_name": "Haliburton",
+        "province": "ON"
+    },
+    "s0000304": {
+        "english_name": "Apsley",
+        "french_name": "Apsley",
+        "province": "ON"
+    },
+    "s0000305": {
+        "english_name": "Kaladar",
+        "french_name": "Kaladar",
+        "province": "ON"
+    },
+    "s0000306": {
+        "english_name": "Rocky Mountain House",
+        "french_name": "Rocky Mountain House",
+        "province": "AB"
+    },
+    "s0000307": {
+        "english_name": "St. Peter's",
+        "french_name": "St. Peter's",
+        "province": "NS"
+    },
+    "s0000308": {
+        "english_name": "Hart Island",
+        "french_name": "Hart Island",
+        "province": "NS"
+    },
+    "s0000309": {
+        "english_name": "Rock River",
+        "french_name": "Rock River",
+        "province": "YT"
+    },
+    "s0000310": {
+        "english_name": "Crowsnest",
+        "french_name": "Crowsnest",
+        "province": "AB"
+    },
+    "s0000311": {
+        "english_name": "Camrose",
+        "french_name": "Camrose",
+        "province": "AB"
+    },
+    "s0000312": {
+        "english_name": "Wetaskiwin",
+        "french_name": "Wetaskiwin",
+        "province": "AB"
+    },
+    "s0000313": {
+        "english_name": "Milk River",
+        "french_name": "Milk River",
+        "province": "AB"
+    },
+    "s0000314": {
+        "english_name": "Percé",
+        "french_name": "Percé",
+        "province": "QC"
+    },
+    "s0000315": {
+        "english_name": "Chandler",
+        "french_name": "Chandler",
+        "province": "QC"
+    },
+    "s0000316": {
+        "english_name": "Gibsons",
+        "french_name": "Gibsons",
+        "province": "BC"
+    },
+    "s0000317": {
+        "english_name": "Sechelt",
+        "french_name": "Sechelt",
+        "province": "BC"
+    },
+    "s0000318": {
+        "english_name": "Halifax",
+        "french_name": "Halifax",
+        "province": "NS"
+    },
+    "s0000319": {
+        "english_name": "Grande-Vallée",
+        "french_name": "Grande-Vallée",
+        "province": "QC"
+    },
+    "s0000320": {
+        "english_name": "Cap Chat",
+        "french_name": "Cap Chat",
+        "province": "QC"
+    },
+    "s0000321": {
+        "english_name": "Gaspésie (Parc national)",
+        "french_name": "Gaspésie (Parc national)",
+        "province": "QC"
+    },
+    "s0000322": {
+        "english_name": "Sainte-Anne-Des-Monts",
+        "french_name": "Sainte-Anne-Des-Monts",
+        "province": "QC"
+    },
+    "s0000323": {
+        "english_name": "Squamish",
+        "french_name": "Squamish",
+        "province": "BC"
+    },
+    "s0000324": {
+        "english_name": "Salmon Arm",
+        "french_name": "Salmon Arm",
+        "province": "BC"
+    },
+    "s0000325": {
+        "english_name": "Stratford",
+        "french_name": "Stratford",
+        "province": "ON"
+    },
+    "s0000326": {
+        "english_name": "London",
+        "french_name": "London",
+        "province": "ON"
+    },
+    "s0000327": {
+        "english_name": "Woodstock",
+        "french_name": "Woodstock",
+        "province": "ON"
+    },
+    "s0000328": {
+        "english_name": "Strathroy",
+        "french_name": "Strathroy",
+        "province": "ON"
+    },
+    "s0000329": {
+        "english_name": "St. Thomas",
+        "french_name": "St. Thomas",
+        "province": "ON"
+    },
+    "s0000330": {
+        "english_name": "Spiritwood",
+        "french_name": "Spiritwood",
+        "province": "SK"
+    },
+    "s0000331": {
+        "english_name": "Saint Andrews",
+        "french_name": "Saint Andrews",
+        "province": "NB"
+    },
+    "s0000332": {
+        "english_name": "St. Stephen",
+        "french_name": "St. Stephen",
+        "province": "NB"
+    },
+    "s0000333": {
+        "english_name": "La Malbaie",
+        "french_name": "La Malbaie",
+        "province": "QC"
+    },
+    "s0000334": {
+        "english_name": "Montmagny",
+        "french_name": "Montmagny",
+        "province": "QC"
+    },
+    "s0000335": {
+        "english_name": "Kamouraska",
+        "french_name": "Kamouraska",
+        "province": "QC"
+    },
+    "s0000336": {
+        "english_name": "L'Islet",
+        "french_name": "L'Islet",
+        "province": "QC"
+    },
+    "s0000337": {
+        "english_name": "Sprague",
+        "french_name": "Sprague",
+        "province": "MB"
+    },
+    "s0000338": {
+        "english_name": "Sachs Harbour",
+        "french_name": "Sachs Harbour",
+        "province": "NT"
+    },
+    "s0000339": {
+        "english_name": "Fisher Branch",
+        "french_name": "Fisher Branch",
+        "province": "MB"
+    },
+    "s0000340": {
+        "english_name": "Sambaa K'e",
+        "french_name": "Sambaa K'e",
+        "province": "NT"
+    },
+    "s0000341": {
+        "english_name": "Tetsa River (Provincial Park)",
+        "french_name": "Tetsa River (Parc provincial)",
+        "province": "BC"
+    },
+    "s0000342": {
+        "english_name": "Baie-Saint-Paul",
+        "french_name": "Baie-Saint-Paul",
+        "province": "QC"
+    },
+    "s0000343": {
+        "english_name": "Biggar",
+        "french_name": "Biggar",
+        "province": "SK"
+    },
+    "s0000344": {
+        "english_name": "Scott",
+        "french_name": "Scott",
+        "province": "SK"
+    },
+    "s0000345": {
+        "english_name": "Magog",
+        "french_name": "Magog",
+        "province": "QC"
+    },
+    "s0000346": {
+        "english_name": "Trois-Rivières",
+        "french_name": "Trois-Rivières",
+        "province": "QC"
+    },
+    "s0000347": {
+        "english_name": "Bécancour",
+        "french_name": "Bécancour",
+        "province": "QC"
+    },
+    "s0000348": {
+        "english_name": "Louiseville",
+        "french_name": "Louiseville",
+        "province": "QC"
+    },
+    "s0000349": {
+        "english_name": "Faro",
+        "french_name": "Faro",
+        "province": "YT"
+    },
+    "s0000350": {
+        "english_name": "Ross River",
+        "french_name": "Ross River",
+        "province": "YT"
+    },
+    "s0000351": {
+        "english_name": "Summerland",
+        "french_name": "Summerland",
+        "province": "BC"
+    },
+    "s0000352": {
+        "english_name": "Shoal Lake",
+        "french_name": "Shoal Lake",
+        "province": "MB"
+    },
+    "s0000353": {
+        "english_name": "Rouyn-Noranda",
+        "french_name": "Rouyn-Noranda",
+        "province": "QC"
+    },
+    "s0000354": {
+        "english_name": "La Sarre",
+        "french_name": "La Sarre",
+        "province": "QC"
+    },
+    "s0000355": {
+        "english_name": "Swift Current",
+        "french_name": "Swift Current",
+        "province": "SK"
+    },
+    "s0000356": {
+        "english_name": "Vegreville",
+        "french_name": "Vegreville",
+        "province": "AB"
+    },
+    "s0000357": {
+        "english_name": "Val Marie",
+        "french_name": "Val Marie",
+        "province": "SK"
+    },
+    "s0000358": {
+        "english_name": "Vauxhall",
+        "french_name": "Vauxhall",
+        "province": "AB"
+    },
+    "s0000359": {
+        "english_name": "Taber",
+        "french_name": "Taber",
+        "province": "AB"
+    },
+    "s0000360": {
+        "english_name": "Cypress Hills (Provincial Park)",
+        "french_name": "Cypress Hills (Parc provincial)",
+        "province": "SK"
+    },
+    "s0000361": {
+        "english_name": "Deux-Montagnes",
+        "french_name": "Deux-Montagnes",
+        "province": "QC"
+    },
+    "s0000362": {
+        "english_name": "Vaudreuil-Dorion",
+        "french_name": "Vaudreuil-Dorion",
+        "province": "QC"
+    },
+    "s0000363": {
+        "english_name": "Pincourt",
+        "french_name": "Pincourt",
+        "province": "QC"
+    },
+    "s0000364": {
+        "english_name": "Digby",
+        "french_name": "Digby",
+        "province": "NS"
+    },
+    "s0000365": {
+        "english_name": "Brier Island",
+        "french_name": "Brier Island",
+        "province": "NS"
+    },
+    "s0000366": {
+        "english_name": "Yellowknife",
+        "french_name": "Yellowknife",
+        "province": "NT"
+    },
+    "s0000367": {
+        "english_name": "Oakville",
+        "french_name": "Oakville",
+        "province": "ON"
+    },
+    "s0000368": {
+        "english_name": "Burlington",
+        "french_name": "Burlington",
+        "province": "ON"
+    },
+    "s0000369": {
+        "english_name": "Collins Bay",
+        "french_name": "Collins Bay",
+        "province": "SK"
+    },
+    "s0000370": {
+        "english_name": "Western Head",
+        "french_name": "Western Head",
+        "province": "NS"
+    },
+    "s0000371": {
+        "english_name": "Liverpool",
+        "french_name": "Liverpool",
+        "province": "NS"
+    },
+    "s0000372": {
+        "english_name": "Weyburn",
+        "french_name": "Weyburn",
+        "province": "SK"
+    },
+    "s0000373": {
+        "english_name": "White Rock",
+        "french_name": "White Rock",
+        "province": "BC"
+    },
+    "s0000374": {
+        "english_name": "Peawanuck",
+        "french_name": "Peawanuck",
+        "province": "ON"
+    },
+    "s0000375": {
+        "english_name": "Wasagaming",
+        "french_name": "Wasagaming",
+        "province": "MB"
+    },
+    "s0000376": {
+        "english_name": "Muncho Lake",
+        "french_name": "Muncho Lake",
+        "province": "BC"
+    },
+    "s0000377": {
+        "english_name": "Liard River",
+        "french_name": "Liard River",
+        "province": "BC"
+    },
+    "s0000378": {
+        "english_name": "Poplar River",
+        "french_name": "Poplar River",
+        "province": "MB"
+    },
+    "s0000379": {
+        "english_name": "Bow Valley (Provincial Park)",
+        "french_name": "Bow Valley (Parc provincial)",
+        "province": "AB"
+    },
+    "s0000380": {
+        "english_name": "Roblin",
+        "french_name": "Roblin",
+        "province": "MB"
+    },
+    "s0000381": {
+        "english_name": "Last Mountain Lake (Sanctuary)",
+        "french_name": "Last Mountain Lake (Sanctuaire)",
+        "province": "SK"
+    },
+    "s0000382": {
+        "english_name": "Bow Island",
+        "french_name": "Bow Island",
+        "province": "AB"
+    },
+    "s0000383": {
+        "english_name": "High River",
+        "french_name": "High River",
+        "province": "AB"
+    },
+    "s0000384": {
+        "english_name": "Stavely",
+        "french_name": "Stavely",
+        "province": "AB"
+    },
+    "s0000385": {
+        "english_name": "Tracadie-Sheila",
+        "french_name": "Tracadie-Sheila",
+        "province": "NB"
+    },
+    "s0000386": {
+        "english_name": "Bas-Caraquet",
+        "french_name": "Bas-Caraquet",
+        "province": "NB"
+    },
+    "s0000387": {
+        "english_name": "Outlook",
+        "french_name": "Outlook",
+        "province": "SK"
+    },
+    "s0000388": {
+        "english_name": "Gameti",
+        "french_name": "Gameti",
+        "province": "NT"
+    },
+    "s0000389": {
+        "english_name": "Indin River",
+        "french_name": "Indin River",
+        "province": "NT"
+    },
+    "s0000390": {
+        "english_name": "Victoria (University of)",
+        "french_name": "Victoria (Université de)",
+        "province": "BC"
+    },
+    "s0000391": {
+        "english_name": "Kootenay (National Park)",
+        "french_name": "Kootenay (Parc national)",
+        "province": "BC"
+    },
+    "s0000392": {
+        "english_name": "Yoho (National Park)",
+        "french_name": "Yoho (Parc national)",
+        "province": "BC"
+    },
+    "s0000393": {
+        "english_name": "Rimouski",
+        "french_name": "Rimouski",
+        "province": "QC"
+    },
+    "s0000394": {
+        "english_name": "Iqaluit",
+        "french_name": "Iqaluit",
+        "province": "NU"
+    },
+    "s0000395": {
+        "english_name": "Gull Bay",
+        "french_name": "Gull Bay",
+        "province": "ON"
+    },
+    "s0000396": {
+        "english_name": "Rock Creek",
+        "french_name": "Rock Creek",
+        "province": "BC"
+    },
+    "s0000397": {
+        "english_name": "Osoyoos",
+        "french_name": "Osoyoos",
+        "province": "BC"
+    },
+    "s0000398": {
+        "english_name": "Chilliwack",
+        "french_name": "Chilliwack",
+        "province": "BC"
+    },
+    "s0000399": {
+        "english_name": "Agassiz",
+        "french_name": "Agassiz",
+        "province": "BC"
+    },
+    "s0000400": {
+        "english_name": "Channel-Port aux Basques",
+        "french_name": "Channel-Port aux Basques",
+        "province": "NL"
+    },
+    "s0000401": {
+        "english_name": "Carberry",
+        "french_name": "Carberry",
+        "province": "MB"
+    },
+    "s0000402": {
+        "english_name": "Shilo",
+        "french_name": "Shilo",
+        "province": "MB"
+    },
+    "s0000403": {
+        "english_name": "Canmore",
+        "french_name": "Canmore",
+        "province": "AB"
+    },
+    "s0000404": {
+        "english_name": "Banff",
+        "french_name": "Banff",
+        "province": "AB"
+    },
+    "s0000405": {
+        "english_name": "Grand Étang",
+        "french_name": "Grand Étang",
+        "province": "NS"
+    },
+    "s0000406": {
+        "english_name": "Amqui",
+        "french_name": "Amqui",
+        "province": "QC"
+    },
+    "s0000407": {
+        "english_name": "Matapedia",
+        "french_name": "Matapédia",
+        "province": "QC"
+    },
+    "s0000408": {
+        "english_name": "Vallée de la Matapédia",
+        "french_name": "Vallée de la Matapédia",
+        "province": "QC"
+    },
+    "s0000409": {
+        "english_name": "Atlin",
+        "french_name": "Atlin",
+        "province": "BC"
+    },
+    "s0000410": {
+        "english_name": "Teslin",
+        "french_name": "Teslin",
+        "province": "YT"
+    },
+    "s0000411": {
+        "english_name": "Thunder Bay",
+        "french_name": "Thunder Bay",
+        "province": "ON"
+    },
+    "s0000412": {
+        "english_name": "Arctic Bay",
+        "french_name": "Arctic Bay",
+        "province": "NU"
+    },
+    "s0000413": {
+        "english_name": "Barrhead",
+        "french_name": "Barrhead",
+        "province": "AB"
+    },
+    "s0000414": {
+        "english_name": "Orillia",
+        "french_name": "Orillia",
+        "province": "ON"
+    },
+    "s0000415": {
+        "english_name": "Barrie",
+        "french_name": "Barrie",
+        "province": "ON"
+    },
+    "s0000416": {
+        "english_name": "Lévis",
+        "french_name": "Lévis",
+        "province": "QC"
+    },
+    "s0000417": {
+        "english_name": "Tadoule Lake",
+        "french_name": "Tadoule Lake",
+        "province": "MB"
+    },
+    "s0000418": {
+        "english_name": "Greenstone (Beardmore)",
+        "french_name": "Greenstone (Beardmore)",
+        "province": "ON"
+    },
+    "s0000419": {
+        "english_name": "Nipigon",
+        "french_name": "Nipigon",
+        "province": "ON"
+    },
+    "s0000420": {
+        "english_name": "Chéticamp",
+        "french_name": "Chéticamp",
+        "province": "NS"
+    },
+    "s0000421": {
+        "english_name": "Carmacks",
+        "french_name": "Carmacks",
+        "province": "YT"
+    },
+    "s0000422": {
+        "english_name": "Tobermory",
+        "french_name": "Tobermory",
+        "province": "ON"
+    },
+    "s0000423": {
+        "english_name": "Deline",
+        "french_name": "Deline",
+        "province": "NT"
+    },
+    "s0000424": {
+        "english_name": "Simcoe",
+        "french_name": "Simcoe",
+        "province": "ON"
+    },
+    "s0000425": {
+        "english_name": "Tillsonburg",
+        "french_name": "Tillsonburg",
+        "province": "ON"
+    },
+    "s0000426": {
+        "english_name": "Norfolk",
+        "french_name": "Norfolk",
+        "province": "ON"
+    },
+    "s0000427": {
+        "english_name": "Westlock",
+        "french_name": "Westlock",
+        "province": "AB"
+    },
+    "s0000428": {
+        "english_name": "Ear Falls",
+        "french_name": "Ear Falls",
+        "province": "ON"
+    },
+    "s0000429": {
+        "english_name": "New Tecumseth",
+        "french_name": "New Tecumseth",
+        "province": "ON"
+    },
+    "s0000430": {
+        "english_name": "Ottawa (Kanata - Orléans)",
+        "french_name": "Ottawa (Kanata - Orléans)",
+        "province": "ON"
+    },
+    "s0000431": {
+        "english_name": "Leamington",
+        "french_name": "Leamington",
+        "province": "ON"
+    },
+    "s0000432": {
+        "english_name": "Ulukhaktok",
+        "french_name": "Ulukhaktok",
+        "province": "NT"
+    },
+    "s0000433": {
+        "english_name": "Ingonish",
+        "french_name": "Ingonish",
+        "province": "NS"
+    },
+    "s0000434": {
+        "english_name": "Smiths Falls",
+        "french_name": "Smiths Falls",
+        "province": "ON"
+    },
+    "s0000435": {
+        "english_name": "Sharbot Lake",
+        "french_name": "Sharbot Lake",
+        "province": "ON"
+    },
+    "s0000436": {
+        "english_name": "Kemptville",
+        "french_name": "Kemptville",
+        "province": "ON"
+    },
+    "s0000437": {
+        "english_name": "Kirkland Lake",
+        "french_name": "Kirkland Lake",
+        "province": "ON"
+    },
+    "s0000438": {
+        "english_name": "Windsor",
+        "french_name": "Windsor",
+        "province": "NS"
+    },
+    "s0000439": {
+        "english_name": "Kentville",
+        "french_name": "Kentville",
+        "province": "NS"
+    },
+    "s0000440": {
+        "english_name": "Lunenburg",
+        "french_name": "Lunenburg",
+        "province": "NS"
+    },
+    "s0000441": {
+        "english_name": "Bridgewater",
+        "french_name": "Bridgewater",
+        "province": "NS"
+    },
+    "s0000442": {
+        "english_name": "Wekweeti",
+        "french_name": "Wekweeti",
+        "province": "NT"
+    },
+    "s0000443": {
+        "english_name": "Lutselke",
+        "french_name": "Lutselke",
+        "province": "NT"
+    },
+    "s0000444": {
+        "english_name": "Morden",
+        "french_name": "Morden",
+        "province": "MB"
+    },
+    "s0000445": {
+        "english_name": "Winkler",
+        "french_name": "Winkler",
+        "province": "MB"
+    },
+    "s0000446": {
+        "english_name": "Sheet Harbour",
+        "french_name": "Sheet Harbour",
+        "province": "NS"
+    },
+    "s0000447": {
+        "english_name": "Malay Falls",
+        "french_name": "Malay Falls",
+        "province": "NS"
+    },
+    "s0000448": {
+        "english_name": "Nordegg",
+        "french_name": "Nordegg",
+        "province": "AB"
+    },
+    "s0000449": {
+        "english_name": "Sackville",
+        "french_name": "Sackville",
+        "province": "NB"
+    },
+    "s0000450": {
+        "english_name": "Amherst",
+        "french_name": "Amherst",
+        "province": "NS"
+    },
+    "s0000451": {
+        "english_name": "Parry Sound",
+        "french_name": "Parry Sound",
+        "province": "ON"
+    },
+    "s0000452": {
+        "english_name": "Dunchurch",
+        "french_name": "Dunchurch",
+        "province": "ON"
+    },
+    "s0000453": {
+        "english_name": "Stony Plain",
+        "french_name": "Stony Plain",
+        "province": "AB"
+    },
+    "s0000454": {
+        "english_name": "Chatham-Kent",
+        "french_name": "Chatham-Kent",
+        "province": "ON"
+    },
+    "s0000455": {
+        "english_name": "Rodney",
+        "french_name": "Rodney",
+        "province": "ON"
+    },
+    "s0000456": {
+        "english_name": "Rocky Harbour",
+        "french_name": "Rocky Harbour",
+        "province": "NL"
+    },
+    "s0000457": {
+        "english_name": "Gros Morne",
+        "french_name": "Gros Morne",
+        "province": "NL"
+    },
+    "s0000458": {
+        "english_name": "Toronto",
+        "french_name": "Toronto",
+        "province": "ON"
+    },
+    "s0000459": {
+        "english_name": "Lanaudière",
+        "french_name": "Lanaudière",
+        "province": "QC"
+    },
+    "s0000460": {
+        "english_name": "Port Hawkesbury",
+        "french_name": "Port Hawkesbury",
+        "province": "NS"
+    },
+    "s0000461": {
+        "english_name": "Tracadie",
+        "french_name": "Tracadie",
+        "province": "NS"
+    },
+    "s0000462": {
+        "english_name": "Antigonish",
+        "french_name": "Antigonish",
+        "province": "NS"
+    },
+    "s0000463": {
+        "english_name": "Cape George",
+        "french_name": "Cape George",
+        "province": "NS"
+    },
+    "s0000464": {
+        "english_name": "Guysborough",
+        "french_name": "Guysborough",
+        "province": "NS"
+    },
+    "s0000465": {
+        "english_name": "Tatlayoko Lake",
+        "french_name": "Tatlayoko Lake",
+        "province": "BC"
+    },
+    "s0000466": {
+        "english_name": "Clarenville",
+        "french_name": "Clarenville",
+        "province": "NL"
+    },
+    "s0000467": {
+        "english_name": "Terra Nova (National Park)",
+        "french_name": "Terra Nova (Parc national)",
+        "province": "NL"
+    },
+    "s0000468": {
+        "english_name": "Drayton Valley",
+        "french_name": "Drayton Valley",
+        "province": "AB"
+    },
+    "s0000469": {
+        "english_name": "Vineland",
+        "french_name": "Vineland",
+        "province": "ON"
+    },
+    "s0000470": {
+        "english_name": "Lincoln",
+        "french_name": "Lincoln",
+        "province": "ON"
+    },
+    "s0000471": {
+        "english_name": "Trail",
+        "french_name": "Trail",
+        "province": "BC"
+    },
+    "s0000472": {
+        "english_name": "Winnipeg (The Forks)",
+        "french_name": "Winnipeg (La Fourche)",
+        "province": "MB"
+    },
+    "s0000473": {
+        "english_name": "Winterland",
+        "french_name": "Winterland",
+        "province": "NL"
+    },
+    "s0000474": {
+        "english_name": "Marystown",
+        "french_name": "Marystown",
+        "province": "NL"
+    },
+    "s0000475": {
+        "english_name": "Grand Bank",
+        "french_name": "Grand Bank",
+        "province": "NL"
+    },
+    "s0000476": {
+        "english_name": "Nahanni Butte",
+        "french_name": "Nahanni Butte",
+        "province": "NT"
+    },
+    "s0000477": {
+        "english_name": "Whitecourt",
+        "french_name": "Whitecourt",
+        "province": "AB"
+    },
+    "s0000478": {
+        "english_name": "La Grande-Quatre",
+        "french_name": "La Grande-Quatre",
+        "province": "QC"
+    },
+    "s0000479": {
+        "english_name": "Sault Ste. Marie",
+        "french_name": "Sault Ste. Marie",
+        "province": "ON"
+    },
+    "s0000480": {
+        "english_name": "Kangirsuk",
+        "french_name": "Kangirsuk",
+        "province": "QC"
+    },
+    "s0000481": {
+        "english_name": "Tofino",
+        "french_name": "Tofino",
+        "province": "BC"
+    },
+    "s0000482": {
+        "english_name": "Ucluelet",
+        "french_name": "Ucluelet",
+        "province": "BC"
+    },
+    "s0000483": {
+        "english_name": "Baie-Comeau",
+        "french_name": "Baie-Comeau",
+        "province": "QC"
+    },
+    "s0000484": {
+        "english_name": "Forestville",
+        "french_name": "Forestville",
+        "province": "QC"
+    },
+    "s0000485": {
+        "english_name": "Bella Coola",
+        "french_name": "Bella Coola",
+        "province": "BC"
+    },
+    "s0000486": {
+        "english_name": "Bagotville",
+        "french_name": "Bagotville",
+        "province": "QC"
+    },
+    "s0000487": {
+        "english_name": "Baker Lake",
+        "french_name": "Baker Lake",
+        "province": "NU"
+    },
+    "s0000488": {
+        "english_name": "Campbell River",
+        "french_name": "Campbell River",
+        "province": "BC"
+    },
+    "s0000489": {
+        "english_name": "Alliston",
+        "french_name": "Alliston",
+        "province": "ON"
+    },
+    "s0000490": {
+        "english_name": "Minnedosa",
+        "french_name": "Minnedosa",
+        "province": "MB"
+    },
+    "s0000491": {
+        "english_name": "Souris",
+        "french_name": "Souris",
+        "province": "MB"
+    },
+    "s0000492": {
+        "english_name": "Brandon",
+        "french_name": "Brandon",
+        "province": "MB"
+    },
+    "s0000493": {
+        "english_name": "Cochrane",
+        "french_name": "Cochrane",
+        "province": "AB"
+    },
+    "s0000494": {
+        "english_name": "Blanc-Sablon",
+        "french_name": "Blanc-Sablon",
+        "province": "QC"
+    },
+    "s0000495": {
+        "english_name": "Cambridge Bay",
+        "french_name": "Cambridge Bay",
+        "province": "NU"
+    },
+    "s0000496": {
+        "english_name": "Nanaimo",
+        "french_name": "Nanaimo",
+        "province": "BC"
+    },
+    "s0000497": {
+        "english_name": "Castlegar",
+        "french_name": "Castlegar",
+        "province": "BC"
+    },
+    "s0000498": {
+        "english_name": "Kugluktuk",
+        "french_name": "Kugluktuk",
+        "province": "NU"
+    },
+    "s0000499": {
+        "english_name": "Blue River",
+        "french_name": "Blue River",
+        "province": "BC"
+    },
+    "s0000500": {
+        "english_name": "Chetwynd",
+        "french_name": "Chetwynd",
+        "province": "BC"
+    },
+    "s0000501": {
+        "english_name": "Chesterfield",
+        "french_name": "Chesterfield",
+        "province": "NU"
+    },
+    "s0000502": {
+        "english_name": "Chipman",
+        "french_name": "Chipman",
+        "province": "NB"
+    },
+    "s0000503": {
+        "english_name": "Doaktown",
+        "french_name": "Doaktown",
+        "province": "NB"
+    },
+    "s0000504": {
+        "english_name": "Clyde River",
+        "french_name": "Clyde River",
+        "province": "NU"
+    },
+    "s0000505": {
+        "english_name": "Kluane Lake",
+        "french_name": "Lac Kluane",
+        "province": "YT"
+    },
+    "s0000506": {
+        "english_name": "Burwash Landing",
+        "french_name": "Burwash Landing",
+        "province": "YT"
+    },
+    "s0000507": {
+        "english_name": "Deer Lake",
+        "french_name": "Deer Lake",
+        "province": "NL"
+    },
+    "s0000508": {
+        "english_name": "Dauphin",
+        "french_name": "Dauphin",
+        "province": "MB"
+    },
+    "s0000509": {
+        "english_name": "Dawson Creek",
+        "french_name": "Dawson Creek",
+        "province": "BC"
+    },
+    "s0000510": {
+        "english_name": "Edmonton (Int'l Aprt)",
+        "french_name": "Edmonton (Aprt int.)",
+        "province": "AB"
+    },
+    "s0000511": {
+        "english_name": "Arviat",
+        "french_name": "Arviat",
+        "province": "NU"
+    },
+    "s0000512": {
+        "english_name": "Elliot Lake",
+        "french_name": "Elliot Lake",
+        "province": "ON"
+    },
+    "s0000513": {
+        "english_name": "Blind River",
+        "french_name": "Blind River",
+        "province": "ON"
+    },
+    "s0000514": {
+        "english_name": "Oxbow",
+        "french_name": "Oxbow",
+        "province": "SK"
+    },
+    "s0000515": {
+        "english_name": "Carlyle",
+        "french_name": "Carlyle",
+        "province": "SK"
+    },
+    "s0000516": {
+        "english_name": "Estevan",
+        "french_name": "Estevan",
+        "province": "SK"
+    },
+    "s0000517": {
+        "english_name": "Fort Severn",
+        "french_name": "Fort Severn",
+        "province": "ON"
+    },
+    "s0000518": {
+        "english_name": "Edson",
+        "french_name": "Edson",
+        "province": "AB"
+    },
+    "s0000519": {
+        "english_name": "Inuvik",
+        "french_name": "Inuvik",
+        "province": "NT"
+    },
+    "s0000520": {
+        "english_name": "Armstrong",
+        "french_name": "Armstrong",
+        "province": "ON"
+    },
+    "s0000521": {
+        "english_name": "Oromocto",
+        "french_name": "Oromocto",
+        "province": "NB"
+    },
+    "s0000522": {
+        "english_name": "Woodstock",
+        "french_name": "Woodstock",
+        "province": "NB"
+    },
+    "s0000523": {
+        "english_name": "Mildred Lake",
+        "french_name": "Mildred Lake",
+        "province": "AB"
+    },
+    "s0000524": {
+        "english_name": "Fort Resolution",
+        "french_name": "Fort Resolution",
+        "province": "NT"
+    },
+    "s0000525": {
+        "english_name": "Fort Simpson",
+        "french_name": "Fort Simpson",
+        "province": "NT"
+    },
+    "s0000526": {
+        "english_name": "Makkovik",
+        "french_name": "Makkovik",
+        "province": "NL"
+    },
+    "s0000527": {
+        "english_name": "Golden",
+        "french_name": "Golden",
+        "province": "BC"
+    },
+    "s0000528": {
+        "english_name": "Greater Napanee",
+        "french_name": "Greater Napanee",
+        "province": "ON"
+    },
+    "s0000529": {
+        "english_name": "Sydenham",
+        "french_name": "Sydenham",
+        "province": "ON"
+    },
+    "s0000530": {
+        "english_name": "Westport",
+        "french_name": "Westport",
+        "province": "ON"
+    },
+    "s0000531": {
+        "english_name": "Kingston",
+        "french_name": "Kingston",
+        "province": "ON"
+    },
+    "s0000532": {
+        "english_name": "La Grande Rivière",
+        "french_name": "La Grande Rivière",
+        "province": "QC"
+    },
+    "s0000533": {
+        "english_name": "Arnes",
+        "french_name": "Arnes",
+        "province": "MB"
+    },
+    "s0000534": {
+        "english_name": "Gimli",
+        "french_name": "Gimli",
+        "province": "MB"
+    },
+    "s0000535": {
+        "english_name": "Gaspé",
+        "french_name": "Gaspé",
+        "province": "QC"
+    },
+    "s0000536": {
+        "english_name": "Forillon",
+        "french_name": "Forillon",
+        "province": "QC"
+    },
+    "s0000537": {
+        "english_name": "Forillon (National Park)",
+        "french_name": "Forillon ( Parc national)",
+        "province": "QC"
+    },
+    "s0000538": {
+        "english_name": "Greenstone (Geraldton)",
+        "french_name": "Greenstone (Geraldton)",
+        "province": "ON"
+    },
+    "s0000539": {
+        "english_name": "Greenstone (Nakina)",
+        "french_name": "Greenstone (Nakina)",
+        "province": "ON"
+    },
+    "s0000540": {
+        "english_name": "Igloolik",
+        "french_name": "Igloolik",
+        "province": "NU"
+    },
+    "s0000541": {
+        "english_name": "Havre St-Pierre",
+        "french_name": "Havre St-Pierre",
+        "province": "QC"
+    },
+    "s0000542": {
+        "english_name": "Kuujjuarapik",
+        "french_name": "Kuujjuarapik",
+        "province": "QC"
+    },
+    "s0000543": {
+        "english_name": "Gillam",
+        "french_name": "Gillam",
+        "province": "MB"
+    },
+    "s0000544": {
+        "english_name": "Quaqtaq",
+        "french_name": "Quaqtaq",
+        "province": "QC"
+    },
+    "s0000545": {
+        "english_name": "Hudson Bay",
+        "french_name": "Hudson Bay",
+        "province": "SK"
+    },
+    "s0000546": {
+        "english_name": "Dryden",
+        "french_name": "Dryden",
+        "province": "ON"
+    },
+    "s0000547": {
+        "english_name": "Hope",
+        "french_name": "Hope",
+        "province": "BC"
+    },
+    "s0000548": {
+        "english_name": "Haldimand County",
+        "french_name": "Haldimand County",
+        "province": "ON"
+    },
+    "s0000549": {
+        "english_name": "Hamilton",
+        "french_name": "Hamilton",
+        "province": "ON"
+    },
+    "s0000550": {
+        "english_name": "Brantford",
+        "french_name": "Brantford",
+        "province": "ON"
+    },
+    "s0000551": {
+        "english_name": "Longueuil",
+        "french_name": "Longueuil",
+        "province": "QC"
+    },
+    "s0000552": {
+        "english_name": "Richelieu",
+        "french_name": "Richelieu",
+        "province": "QC"
+    },
+    "s0000553": {
+        "english_name": "Carignan",
+        "french_name": "Carignan",
+        "province": "QC"
+    },
+    "s0000554": {
+        "english_name": "Chambly",
+        "french_name": "Chambly",
+        "province": "QC"
+    },
+    "s0000555": {
+        "english_name": "Mont Saint-Hilaire",
+        "french_name": "Mont Saint-Hilaire",
+        "province": "QC"
+    },
+    "s0000556": {
+        "english_name": "Otterburn Park",
+        "french_name": "Otterburn Park",
+        "province": "QC"
+    },
+    "s0000557": {
+        "english_name": "Saint-Amable",
+        "french_name": "Saint-Amable",
+        "province": "QC"
+    },
+    "s0000558": {
+        "english_name": "Saint-Basile Le Grand",
+        "french_name": "Saint-Basile Le Grand",
+        "province": "QC"
+    },
+    "s0000559": {
+        "english_name": "Sainte-Julie",
+        "french_name": "Sainte-Julie",
+        "province": "QC"
+    },
+    "s0000560": {
+        "english_name": "Enterprise",
+        "french_name": "Enterprise",
+        "province": "NT"
+    },
+    "s0000561": {
+        "english_name": "Hay River",
+        "french_name": "Hay River",
+        "province": "NT"
+    },
+    "s0000562": {
+        "english_name": "Summerside",
+        "french_name": "Summerside",
+        "province": "PE"
+    },
+    "s0000563": {
+        "english_name": "Ivujivik",
+        "french_name": "Ivujivik",
+        "province": "QC"
+    },
+    "s0000564": {
+        "english_name": "Pond Inlet",
+        "french_name": "Pond Inlet",
+        "province": "NU"
+    },
+    "s0000565": {
+        "english_name": "Island Lake",
+        "french_name": "Island Lake",
+        "province": "MB"
+    },
+    "s0000566": {
+        "english_name": "Gods Lake",
+        "french_name": "Gods Lake",
+        "province": "MB"
+    },
+    "s0000567": {
+        "english_name": "Stephenville",
+        "french_name": "Stephenville",
+        "province": "NL"
+    },
+    "s0000568": {
+        "english_name": "Kamloops",
+        "french_name": "Kamloops",
+        "province": "BC"
+    },
+    "s0000569": {
+        "english_name": "Cache Creek",
+        "french_name": "Cache Creek",
+        "province": "BC"
+    },
+    "s0000570": {
+        "english_name": "Aklavik",
+        "french_name": "Aklavik",
+        "province": "NT"
+    },
+    "s0000571": {
+        "english_name": "Guelph",
+        "french_name": "Guelph",
+        "province": "ON"
+    },
+    "s0000572": {
+        "english_name": "Cambridge",
+        "french_name": "Cambridge",
+        "province": "ON"
+    },
+    "s0000573": {
+        "english_name": "Kitchener-Waterloo",
+        "french_name": "Kitchener-Waterloo",
+        "province": "ON"
+    },
+    "s0000574": {
+        "english_name": "Kangiqsujuaq",
+        "french_name": "Kangiqsujuaq",
+        "province": "QC"
+    },
+    "s0000575": {
+        "english_name": "Lac Raglan",
+        "french_name": "Lac Raglan",
+        "province": "QC"
+    },
+    "s0000576": {
+        "english_name": "Key Lake",
+        "french_name": "Key Lake",
+        "province": "SK"
+    },
+    "s0000577": {
+        "english_name": "Schefferville",
+        "french_name": "Schefferville",
+        "province": "QC"
+    },
+    "s0000578": {
+        "english_name": "Akulivik",
+        "french_name": "Akulivik",
+        "province": "QC"
+    },
+    "s0000579": {
+        "english_name": "Waskaganish",
+        "french_name": "Waskaganish",
+        "province": "QC"
+    },
+    "s0000580": {
+        "english_name": "Baie-James",
+        "french_name": "Baie-James",
+        "province": "QC"
+    },
+    "s0000581": {
+        "english_name": "Kindersley",
+        "french_name": "Kindersley",
+        "province": "SK"
+    },
+    "s0000582": {
+        "english_name": "Newmarket",
+        "french_name": "Newmarket",
+        "province": "ON"
+    },
+    "s0000583": {
+        "english_name": "Charlottetown",
+        "french_name": "Charlottetown",
+        "province": "PE"
+    },
+    "s0000584": {
+        "english_name": "Vaughan",
+        "french_name": "Vaughan",
+        "province": "ON"
+    },
+    "s0000585": {
+        "english_name": "Markham",
+        "french_name": "Markham",
+        "province": "ON"
+    },
+    "s0000586": {
+        "english_name": "Aupaluk",
+        "french_name": "Aupaluk",
+        "province": "QC"
+    },
+    "s0000587": {
+        "english_name": "Kimmirut",
+        "french_name": "Kimmirut",
+        "province": "NU"
+    },
+    "s0000588": {
+        "english_name": "Chapleau",
+        "french_name": "Chapleau",
+        "province": "ON"
+    },
+    "s0000589": {
+        "english_name": "Meadow Lake",
+        "french_name": "Meadow Lake",
+        "province": "SK"
+    },
+    "s0000590": {
+        "english_name": "Lloydminster",
+        "french_name": "Lloydminster",
+        "province": "AB"
+    },
+    "s0000591": {
+        "english_name": "Kangiqsualujjuaq",
+        "french_name": "Kangiqsualujjuaq",
+        "province": "QC"
+    },
+    "s0000592": {
+        "english_name": "Kelowna",
+        "french_name": "Kelowna",
+        "province": "BC"
+    },
+    "s0000593": {
+        "english_name": "Mayo",
+        "french_name": "Mayo",
+        "province": "YT"
+    },
+    "s0000594": {
+        "english_name": "Mary's Harbour",
+        "french_name": "Mary's Harbour",
+        "province": "NL"
+    },
+    "s0000595": {
+        "english_name": "Fort McMurray",
+        "french_name": "Fort McMurray",
+        "province": "AB"
+    },
+    "s0000596": {
+        "english_name": "Moosonee",
+        "french_name": "Moosonee",
+        "province": "ON"
+    },
+    "s0000597": {
+        "english_name": "Fort Albany",
+        "french_name": "Fort Albany",
+        "province": "ON"
+    },
+    "s0000598": {
+        "english_name": "Chibougamau",
+        "french_name": "Chibougamau",
+        "province": "QC"
+    },
+    "s0000599": {
+        "english_name": "Umiujaq",
+        "french_name": "Umiujaq",
+        "province": "QC"
+    },
+    "s0000600": {
+        "english_name": "Mirabel",
+        "french_name": "Mirabel",
+        "province": "QC"
+    },
+    "s0000601": {
+        "english_name": "Saint-Jérôme",
+        "french_name": "Saint-Jérôme",
+        "province": "QC"
+    },
+    "s0000602": {
+        "english_name": "Lachute",
+        "french_name": "Lachute",
+        "province": "QC"
+    },
+    "s0000603": {
+        "english_name": "Blainville",
+        "french_name": "Blainville",
+        "province": "QC"
+    },
+    "s0000604": {
+        "english_name": "Boisbriand",
+        "french_name": "Boisbriand",
+        "province": "QC"
+    },
+    "s0000605": {
+        "english_name": "Lorraine",
+        "french_name": "Lorraine",
+        "province": "QC"
+    },
+    "s0000606": {
+        "english_name": "Rosemère",
+        "french_name": "Rosemère",
+        "province": "QC"
+    },
+    "s0000607": {
+        "english_name": "Sainte-Anne-Des-Plaines",
+        "french_name": "Sainte-Anne-Des-Plaines",
+        "province": "QC"
+    },
+    "s0000608": {
+        "english_name": "Sainte-Thérèse",
+        "french_name": "Sainte-Thérèse",
+        "province": "QC"
+    },
+    "s0000609": {
+        "english_name": "Saint-Eustache",
+        "french_name": "Saint-Eustache",
+        "province": "QC"
+    },
+    "s0000610": {
+        "english_name": "Natashquan",
+        "french_name": "Natashquan",
+        "province": "QC"
+    },
+    "s0000611": {
+        "english_name": "Gatineau",
+        "french_name": "Gatineau",
+        "province": "QC"
+    },
+    "s0000612": {
+        "english_name": "Papineau",
+        "french_name": "Papineau",
+        "province": "QC"
+    },
+    "s0000613": {
+        "english_name": "Pontiac",
+        "french_name": "Pontiac",
+        "province": "QC"
+    },
+    "s0000614": {
+        "english_name": "Val-des-Monts",
+        "french_name": "Val-des-Monts",
+        "province": "QC"
+    },
+    "s0000615": {
+        "english_name": "Chelsea",
+        "french_name": "Chelsea",
+        "province": "QC"
+    },
+    "s0000616": {
+        "english_name": "Norway House",
+        "french_name": "Norway House",
+        "province": "MB"
+    },
+    "s0000617": {
+        "english_name": "Matagami",
+        "french_name": "Matagami",
+        "province": "QC"
+    },
+    "s0000618": {
+        "english_name": "Ekati (Lac de Gras)",
+        "french_name": "Ekati (Lac de Gras)",
+        "province": "NT"
+    },
+    "s0000619": {
+        "english_name": "Cold Lake",
+        "french_name": "Cold Lake",
+        "province": "AB"
+    },
+    "s0000620": {
+        "english_name": "Québec",
+        "french_name": "Québec",
+        "province": "QC"
+    },
+    "s0000621": {
+        "english_name": "High Level",
+        "french_name": "High Level",
+        "province": "AB"
+    },
+    "s0000622": {
+        "english_name": "Grand Manan",
+        "french_name": "Grand Manan",
+        "province": "NB"
+    },
+    "s0000623": {
+        "english_name": "Ottawa (Richmond - Metcalfe)",
+        "french_name": "Ottawa (Richmond - Metcalfe)",
+        "province": "ON"
+    },
+    "s0000624": {
+        "english_name": "Prince Albert",
+        "french_name": "Prince Albert",
+        "province": "SK"
+    },
+    "s0000625": {
+        "english_name": "Peace River",
+        "french_name": "Peace River",
+        "province": "AB"
+    },
+    "s0000626": {
+        "english_name": "Portage la Prairie",
+        "french_name": "Portage la Prairie",
+        "province": "MB"
+    },
+    "s0000627": {
+        "english_name": "Inukjuak",
+        "french_name": "Inukjuak",
+        "province": "QC"
+    },
+    "s0000628": {
+        "english_name": "Pickle Lake",
+        "french_name": "Pickle Lake",
+        "province": "ON"
+    },
+    "s0000629": {
+        "english_name": "Peterborough",
+        "french_name": "Peterborough",
+        "province": "ON"
+    },
+    "s0000630": {
+        "english_name": "Port Perry",
+        "french_name": "Port Perry",
+        "province": "ON"
+    },
+    "s0000631": {
+        "english_name": "Kawartha Lakes (Lindsay)",
+        "french_name": "Kawartha Lakes (Lindsay)",
+        "province": "ON"
+    },
+    "s0000632": {
+        "english_name": "Kawartha Lakes (Fenelon Falls)",
+        "french_name": "Kawartha Lakes (Fenelon Falls)",
+        "province": "ON"
+    },
+    "s0000633": {
+        "english_name": "Prince Rupert",
+        "french_name": "Prince Rupert",
+        "province": "BC"
+    },
+    "s0000634": {
+        "english_name": "Powell River",
+        "french_name": "Powell River",
+        "province": "BC"
+    },
+    "s0000635": {
+        "english_name": "Montréal",
+        "french_name": "Montréal",
+        "province": "QC"
+    },
+    "s0000636": {
+        "english_name": "Fort Chipewyan",
+        "french_name": "Fort Chipewyan",
+        "province": "AB"
+    },
+    "s0000637": {
+        "english_name": "Burk's Falls",
+        "french_name": "Burk's Falls",
+        "province": "ON"
+    },
+    "s0000638": {
+        "english_name": "Gravenhurst",
+        "french_name": "Gravenhurst",
+        "province": "ON"
+    },
+    "s0000639": {
+        "english_name": "Port Carling",
+        "french_name": "Port Carling",
+        "province": "ON"
+    },
+    "s0000640": {
+        "english_name": "Huntsville",
+        "french_name": "Huntsville",
+        "province": "ON"
+    },
+    "s0000641": {
+        "english_name": "Bracebridge",
+        "french_name": "Bracebridge",
+        "province": "ON"
+    },
+    "s0000642": {
+        "english_name": "Muskoka",
+        "french_name": "Muskoka",
+        "province": "ON"
+    },
+    "s0000643": {
+        "english_name": "Rainbow Lake",
+        "french_name": "Rainbow Lake",
+        "province": "AB"
+    },
+    "s0000644": {
+        "english_name": "The Pas",
+        "french_name": "The Pas",
+        "province": "MB"
+    },
+    "s0000645": {
+        "english_name": "Red Deer",
+        "french_name": "Red Deer",
+        "province": "AB"
+    },
+    "s0000646": {
+        "english_name": "Windsor",
+        "french_name": "Windsor",
+        "province": "ON"
+    },
+    "s0000647": {
+        "english_name": "Good Hope Lake",
+        "french_name": "Good Hope Lake",
+        "province": "BC"
+    },
+    "s0000648": {
+        "english_name": "Watson Lake",
+        "french_name": "Watson Lake",
+        "province": "YT"
+    },
+    "s0000649": {
+        "english_name": "Yarmouth",
+        "french_name": "Yarmouth",
+        "province": "NS"
+    },
+    "s0000650": {
+        "english_name": "Sioux Narrows",
+        "french_name": "Sioux Narrows",
+        "province": "ON"
+    },
+    "s0000651": {
+        "english_name": "Kenora",
+        "french_name": "Kenora",
+        "province": "ON"
+    },
+    "s0000652": {
+        "english_name": "Lethbridge",
+        "french_name": "Lethbridge",
+        "province": "AB"
+    },
+    "s0000653": {
+        "english_name": "Shediac",
+        "french_name": "Shédiac",
+        "province": "NB"
+    },
+    "s0000654": {
+        "english_name": "Moncton",
+        "french_name": "Moncton",
+        "province": "NB"
+    },
+    "s0000655": {
+        "english_name": "Hopewell",
+        "french_name": "Hopewell",
+        "province": "NB"
+    },
+    "s0000656": {
+        "english_name": "Comox",
+        "french_name": "Comox",
+        "province": "BC"
+    },
+    "s0000657": {
+        "english_name": "Courtenay",
+        "french_name": "Courtenay",
+        "province": "BC"
+    },
+    "s0000658": {
+        "english_name": "Brampton",
+        "french_name": "Brampton",
+        "province": "ON"
+    },
+    "s0000659": {
+        "english_name": "Kakabeka Falls",
+        "french_name": "Kakabeka Falls",
+        "province": "ON"
+    },
+    "s0000660": {
+        "english_name": "Dorion",
+        "french_name": "Dorion",
+        "province": "ON"
+    },
+    "s0000661": {
+        "english_name": "Grande Prairie",
+        "french_name": "Grande Prairie",
+        "province": "AB"
+    },
+    "s0000662": {
+        "english_name": "Canora",
+        "french_name": "Canora",
+        "province": "SK"
+    },
+    "s0000663": {
+        "english_name": "Yorkton",
+        "french_name": "Yorkton",
+        "province": "SK"
+    },
+    "s0000664": {
+        "english_name": "Kamsack",
+        "french_name": "Kamsack",
+        "province": "SK"
+    },
+    "s0000665": {
+        "english_name": "Melville",
+        "french_name": "Melville",
+        "province": "SK"
+    },
+    "s0000666": {
+        "english_name": "North Battleford",
+        "french_name": "North Battleford",
+        "province": "SK"
+    },
+    "s0000667": {
+        "english_name": "Gander",
+        "french_name": "Gander",
+        "province": "NL"
+    },
+    "s0000668": {
+        "english_name": "Campbellton",
+        "french_name": "Campbellton",
+        "province": "NL"
+    },
+    "s0000669": {
+        "english_name": "Lewisporte",
+        "french_name": "Lewisporte",
+        "province": "NL"
+    },
+    "s0000670": {
+        "english_name": "Sydney",
+        "french_name": "Sydney",
+        "province": "NS"
+    },
+    "s0000671": {
+        "english_name": "Quesnel",
+        "french_name": "Quesnel",
+        "province": "BC"
+    },
+    "s0000672": {
+        "english_name": "Resolute",
+        "french_name": "Resolute",
+        "province": "NU"
+    },
+    "s0000673": {
+        "english_name": "Roberval",
+        "french_name": "Roberval",
+        "province": "QC"
+    },
+    "s0000674": {
+        "english_name": "Lac-Saint-Jean",
+        "french_name": "Lac-Saint-Jean",
+        "province": "QC"
+    },
+    "s0000675": {
+        "english_name": "Saint-Félicien",
+        "french_name": "Saint-Félicien",
+        "province": "QC"
+    },
+    "s0000676": {
+        "english_name": "Red Lake",
+        "french_name": "Red Lake",
+        "province": "ON"
+    },
+    "s0000677": {
+        "english_name": "Pikangikum",
+        "french_name": "Pikangikum",
+        "province": "ON"
+    },
+    "s0000678": {
+        "english_name": "Rankin Inlet",
+        "french_name": "Rankin Inlet",
+        "province": "NU"
+    },
+    "s0000679": {
+        "english_name": "Revelstoke",
+        "french_name": "Revelstoke",
+        "province": "BC"
+    },
+    "s0000680": {
+        "english_name": "Greater Sudbury",
+        "french_name": "Grand Sudbury",
+        "province": "ON"
+    },
+    "s0000681": {
+        "english_name": "Sherbrooke",
+        "french_name": "Sherbrooke",
+        "province": "QC"
+    },
+    "s0000682": {
+        "english_name": "Asbestos",
+        "french_name": "Asbestos",
+        "province": "QC"
+    },
+    "s0000683": {
+        "english_name": "Suffield",
+        "french_name": "Suffield",
+        "province": "AB"
+    },
+    "s0000684": {
+        "english_name": "Stony Rapids",
+        "french_name": "Stony Rapids",
+        "province": "SK"
+    },
+    "s0000685": {
+        "english_name": "Quispamsis",
+        "french_name": "Quispamsis",
+        "province": "NB"
+    },
+    "s0000686": {
+        "english_name": "Sussex",
+        "french_name": "Sussex",
+        "province": "NB"
+    },
+    "s0000687": {
+        "english_name": "Saint John",
+        "french_name": "Saint John",
+        "province": "NB"
+    },
+    "s0000688": {
+        "english_name": "Fundy (National Park)",
+        "french_name": "Fundy (Parc national)",
+        "province": "NB"
+    },
+    "s0000689": {
+        "english_name": "Sanikiluaq",
+        "french_name": "Sanikiluaq",
+        "province": "NU"
+    },
+    "s0000690": {
+        "english_name": "Fort Smith",
+        "french_name": "Fort Smith",
+        "province": "NT"
+    },
+    "s0000691": {
+        "english_name": "St. Catharines",
+        "french_name": "St. Catharines",
+        "province": "ON"
+    },
+    "s0000692": {
+        "english_name": "Niagara Falls",
+        "french_name": "Niagara Falls",
+        "province": "ON"
+    },
+    "s0000693": {
+        "english_name": "Nanisivik",
+        "french_name": "Nanisivik",
+        "province": "NU"
+    },
+    "s0000694": {
+        "english_name": "Cape Dorset",
+        "french_name": "Cape Dorset",
+        "province": "NU"
+    },
+    "s0000695": {
+        "english_name": "Thompson",
+        "french_name": "Thompson",
+        "province": "MB"
+    },
+    "s0000696": {
+        "english_name": "Sachigo Lake",
+        "french_name": "Sachigo Lake",
+        "province": "ON"
+    },
+    "s0000697": {
+        "english_name": "Big Trout Lake",
+        "french_name": "Big Trout Lake",
+        "province": "ON"
+    },
+    "s0000698": {
+        "english_name": "Wunnummin Lake",
+        "french_name": "Wunnummin Lake",
+        "province": "ON"
+    },
+    "s0000699": {
+        "english_name": "Tasiujaq",
+        "french_name": "Tasiujaq",
+        "province": "QC"
+    },
+    "s0000700": {
+        "english_name": "Stirling",
+        "french_name": "Stirling",
+        "province": "ON"
+    },
+    "s0000701": {
+        "english_name": "Trenton",
+        "french_name": "Trenton",
+        "province": "ON"
+    },
+    "s0000702": {
+        "english_name": "Prince Edward (Picton)",
+        "french_name": "Prince Edward (Picton)",
+        "province": "ON"
+    },
+    "s0000703": {
+        "english_name": "Belleville",
+        "french_name": "Belleville",
+        "province": "ON"
+    },
+    "s0000704": {
+        "english_name": "Quinte West",
+        "french_name": "Quinte Ouest",
+        "province": "ON"
+    },
+    "s0000705": {
+        "english_name": "Timmins",
+        "french_name": "Timmins",
+        "province": "ON"
+    },
+    "s0000706": {
+        "english_name": "Cochrane",
+        "french_name": "Cochrane",
+        "province": "ON"
+    },
+    "s0000707": {
+        "english_name": "Oshawa",
+        "french_name": "Oshawa",
+        "province": "ON"
+    },
+    "s0000708": {
+        "english_name": "Whitby",
+        "french_name": "Whitby",
+        "province": "ON"
+    },
+    "s0000709": {
+        "english_name": "Shawinigan",
+        "french_name": "Shawinigan",
+        "province": "QC"
+    },
+    "s0000710": {
+        "english_name": "Pickering",
+        "french_name": "Pickering",
+        "province": "ON"
+    },
+    "s0000711": {
+        "english_name": "Puvirnituq",
+        "french_name": "Puvirnituq",
+        "province": "QC"
+    },
+    "s0000712": {
+        "english_name": "Laval",
+        "french_name": "Laval",
+        "province": "QC"
+    },
+    "s0000713": {
+        "english_name": "Naujaat",
+        "french_name": "Naujaat",
+        "province": "NU"
+    },
+    "s0000714": {
+        "english_name": "Hall Beach",
+        "french_name": "Hall Beach",
+        "province": "NU"
+    },
+    "s0000715": {
+        "english_name": "La Ronge",
+        "french_name": "La Ronge",
+        "province": "SK"
+    },
+    "s0000716": {
+        "english_name": "Qikiqtarjuaq",
+        "french_name": "Qikiqtarjuaqq",
+        "province": "NU"
+    },
+    "s0000717": {
+        "english_name": "Val-d'Or",
+        "french_name": "Val-d'Or",
+        "province": "QC"
+    },
+    "s0000718": {
+        "english_name": "Amos",
+        "french_name": "Amos",
+        "province": "QC"
+    },
+    "s0000719": {
+        "english_name": "Kuujjuaq",
+        "french_name": "Kuujjuaq",
+        "province": "QC"
+    },
+    "s0000720": {
+        "english_name": "Norman Wells",
+        "french_name": "Norman Wells",
+        "province": "NT"
+    },
+    "s0000721": {
+        "english_name": "Joliette",
+        "french_name": "Joliette",
+        "province": "QC"
+    },
+    "s0000722": {
+        "english_name": "La Loche",
+        "french_name": "La Loche",
+        "province": "SK"
+    },
+    "s0000723": {
+        "english_name": "Buffalo Narrows",
+        "french_name": "Buffalo Narrows",
+        "province": "SK"
+    },
+    "s0000724": {
+        "english_name": "Wiarton",
+        "french_name": "Wiarton",
+        "province": "ON"
+    },
+    "s0000725": {
+        "english_name": "Port Elgin",
+        "french_name": "Port Elgin",
+        "province": "ON"
+    },
+    "s0000726": {
+        "english_name": "Saugeen Shores",
+        "french_name": "Saugeen Shores",
+        "province": "ON"
+    },
+    "s0000727": {
+        "english_name": "South Bruce Peninsula",
+        "french_name": "South Bruce Peninsula",
+        "province": "ON"
+    },
+    "s0000728": {
+        "english_name": "Owen Sound",
+        "french_name": "Owen Sound",
+        "province": "ON"
+    },
+    "s0000729": {
+        "english_name": "Petawawa",
+        "french_name": "Petawawa",
+        "province": "ON"
+    },
+    "s0000730": {
+        "english_name": "Pembroke",
+        "french_name": "Pembroke",
+        "province": "ON"
+    },
+    "s0000731": {
+        "english_name": "Renfrew",
+        "french_name": "Renfrew",
+        "province": "ON"
+    },
+    "s0000732": {
+        "english_name": "Deep River",
+        "french_name": "Deep River",
+        "province": "ON"
+    },
+    "s0000733": {
+        "english_name": "Moosomin",
+        "french_name": "Moosomin",
+        "province": "SK"
+    },
+    "s0000734": {
+        "english_name": "Richer",
+        "french_name": "Richer",
+        "province": "MB"
+    },
+    "s0000735": {
+        "english_name": "Victoria Harbour",
+        "french_name": "Victoria Harbour",
+        "province": "BC"
+    },
+    "s0000736": {
+        "english_name": "Wabush Lake",
+        "french_name": "Wabush Lake",
+        "province": "NL"
+    },
+    "s0000737": {
+        "english_name": "Labrador City",
+        "french_name": "Labrador City",
+        "province": "NL"
+    },
+    "s0000738": {
+        "english_name": "Fermont",
+        "french_name": "Fermont",
+        "province": "QC"
+    },
+    "s0000739": {
+        "english_name": "Williams Lake",
+        "french_name": "Williams Lake",
+        "province": "BC"
+    },
+    "s0000740": {
+        "english_name": "Wrigley",
+        "french_name": "Wrigley",
+        "province": "NT"
+    },
+    "s0000741": {
+        "english_name": "Cranbrook",
+        "french_name": "Cranbrook",
+        "province": "BC"
+    },
+    "s0000742": {
+        "english_name": "Saint-Timothée",
+        "french_name": "Saint-Timothée",
+        "province": "QC"
+    },
+    "s0000743": {
+        "english_name": "Rosthern",
+        "french_name": "Rosthern",
+        "province": "SK"
+    },
+    "s0000744": {
+        "english_name": "Lambton Shores",
+        "french_name": "Lambton Shores",
+        "province": "ON"
+    },
+    "s0000745": {
+        "english_name": "Medicine Hat",
+        "french_name": "Medicine Hat",
+        "province": "AB"
+    },
+    "s0000746": {
+        "english_name": "Fort St. John",
+        "french_name": "Fort St. John",
+        "province": "BC"
+    },
+    "s0000747": {
+        "english_name": "Savant Lake",
+        "french_name": "Savant Lake",
+        "province": "ON"
+    },
+    "s0000748": {
+        "english_name": "Sioux Lookout",
+        "french_name": "Sioux Lookout",
+        "province": "ON"
+    },
+    "s0000749": {
+        "english_name": "Whale Cove",
+        "french_name": "Whale Cove",
+        "province": "NU"
+    },
+    "s0000750": {
+        "english_name": "Pangnirtung",
+        "french_name": "Pangnirtung",
+        "province": "NU"
+    },
+    "s0000751": {
+        "english_name": "Beaver Creek",
+        "french_name": "Beaver Creek",
+        "province": "YT"
+    },
+    "s0000752": {
+        "english_name": "Earlton",
+        "french_name": "Earlton",
+        "province": "ON"
+    },
+    "s0000753": {
+        "english_name": "Temiskaming Shores",
+        "french_name": "Temiskaming Shores",
+        "province": "ON"
+    },
+    "s0000754": {
+        "english_name": "Vanderhoof",
+        "french_name": "Vanderhoof",
+        "province": "BC"
+    },
+    "s0000755": {
+        "english_name": "Repentigny",
+        "french_name": "Repentigny",
+        "province": "QC"
+    },
+    "s0000756": {
+        "english_name": "Kitimat",
+        "french_name": "Kitimat",
+        "province": "BC"
+    },
+    "s0000757": {
+        "english_name": "Terrace",
+        "french_name": "Terrace",
+        "province": "BC"
+    },
+    "s0000758": {
+        "english_name": "Abbotsford",
+        "french_name": "Abbotsford",
+        "province": "BC"
+    },
+    "s0000759": {
+        "english_name": "Paulatuk",
+        "french_name": "Paulatuk",
+        "province": "NT"
+    },
+    "s0000760": {
+        "english_name": "Carcross",
+        "french_name": "Carcross",
+        "province": "YT"
+    },
+    "s0000761": {
+        "english_name": "Wawa",
+        "french_name": "Wawa",
+        "province": "ON"
+    },
+    "s0000762": {
+        "english_name": "Montreal River Harbour",
+        "french_name": "Montreal River Harbour",
+        "province": "ON"
+    },
+    "s0000763": {
+        "english_name": "Lake Superior (Provincial Park)",
+        "french_name": "Lac Supérieur (Parc provincial)",
+        "province": "ON"
+    },
+    "s0000764": {
+        "english_name": "White River",
+        "french_name": "White River",
+        "province": "ON"
+    },
+    "s0000765": {
+        "english_name": "North Bay",
+        "french_name": "North Bay",
+        "province": "ON"
+    },
+    "s0000766": {
+        "english_name": "West Nipissing",
+        "french_name": "Nipissing Ouest",
+        "province": "ON"
+    },
+    "s0000767": {
+        "english_name": "Okotoks",
+        "french_name": "Okotoks",
+        "province": "AB"
+    },
+    "s0000768": {
+        "english_name": "Airdrie",
+        "french_name": "Airdrie",
+        "province": "AB"
+    },
+    "s0000769": {
+        "english_name": "Delson",
+        "french_name": "Delson",
+        "province": "QC"
+    },
+    "s0000770": {
+        "english_name": "Smithers",
+        "french_name": "Smithers",
+        "province": "BC"
+    },
+    "s0000771": {
+        "english_name": "Fort Nelson",
+        "french_name": "Fort Nelson",
+        "province": "BC"
+    },
+    "s0000772": {
+        "english_name": "Penticton",
+        "french_name": "Penticton",
+        "province": "BC"
+    },
+    "s0000773": {
+        "english_name": "Richmond Hill",
+        "french_name": "Richmond Hill",
+        "province": "ON"
+    },
+    "s0000774": {
+        "english_name": "Taloyoak",
+        "french_name": "Taloyoak",
+        "province": "NU"
+    },
+    "s0000775": {
+        "english_name": "Victoria",
+        "french_name": "Victoria",
+        "province": "BC"
+    },
+    "s0000776": {
+        "english_name": "Leaf Rapids",
+        "french_name": "Leaf Rapids",
+        "province": "MB"
+    },
+    "s0000777": {
+        "english_name": "Lynn Lake",
+        "french_name": "Lynn Lake",
+        "province": "MB"
+    },
+    "s0000778": {
+        "english_name": "Brochet",
+        "french_name": "Brochet",
+        "province": "MB"
+    },
+    "s0000779": {
+        "english_name": "Churchill",
+        "french_name": "Churchill",
+        "province": "MB"
+    },
+    "s0000780": {
+        "english_name": "Happy Valley-Goose Bay",
+        "french_name": "Happy Valley-Goose Bay",
+        "province": "NL"
+    },
+    "s0000781": {
+        "english_name": "Grande Cache",
+        "french_name": "Grande Cache",
+        "province": "AB"
+    },
+    "s0000782": {
+        "english_name": "Kapuskasing",
+        "french_name": "Kapuskasing",
+        "province": "ON"
+    },
+    "s0000783": {
+        "english_name": "Mont-Joli",
+        "french_name": "Mont-Joli",
+        "province": "QC"
+    },
+    "s0000784": {
+        "english_name": "Matane",
+        "french_name": "Matane",
+        "province": "QC"
+    },
+    "s0000785": {
+        "english_name": "Toronto Island",
+        "french_name": "Toronto Island",
+        "province": "ON"
+    },
+    "s0000786": {
+        "english_name": "Mississauga",
+        "french_name": "Mississauga",
+        "province": "ON"
+    },
+    "s0000787": {
+        "english_name": "Caledon",
+        "french_name": "Caledon",
+        "province": "ON"
+    },
+    "s0000788": {
+        "english_name": "Regina",
+        "french_name": "Regina",
+        "province": "SK"
+    },
+    "s0000789": {
+        "english_name": "Halton Hills",
+        "french_name": "Halton Hills",
+        "province": "ON"
+    },
+    "s0000790": {
+        "english_name": "Gore Bay",
+        "french_name": "Gore Bay",
+        "province": "ON"
+    },
+    "s0000791": {
+        "english_name": "Detah",
+        "french_name": "Detah",
+        "province": "NT"
+    },
+    "s0000792": {
+        "english_name": "Victoria (Hartland)",
+        "french_name": "Victoria (Hartland)",
+        "province": "BC"
+    },
+    "s0000793": {
+        "english_name": "Salluit",
+        "french_name": "Salluit",
+        "province": "QC"
+    },
+    "s0000794": {
+        "english_name": "Slave Lake",
+        "french_name": "Slave Lake",
+        "province": "AB"
+    },
+    "s0000795": {
+        "english_name": "Sandspit",
+        "french_name": "Sandspit",
+        "province": "BC"
+    },
+    "s0000796": {
+        "english_name": "Sarnia",
+        "french_name": "Sarnia",
+        "province": "ON"
+    },
+    "s0000797": {
+        "english_name": "Saskatoon",
+        "french_name": "Saskatoon",
+        "province": "SK"
+    },
+    "s0000798": {
+        "english_name": "Coral Harbour",
+        "french_name": "Coral Harbour",
+        "province": "NU"
+    },
+    "s0000799": {
+        "english_name": "Port Hardy",
+        "french_name": "Port Hardy",
+        "province": "BC"
+    },
+    "s0000800": {
+        "english_name": "Sept-Îles",
+        "french_name": "Sept-Îles",
+        "province": "QC"
+    },
+    "s0000801": {
+        "english_name": "Port-Cartier",
+        "french_name": "Port-Cartier",
+        "province": "QC"
+    },
+    "s0000802": {
+        "english_name": "Annapolis Royal",
+        "french_name": "Annapolis Royal",
+        "province": "NS"
+    },
+    "s0000803": {
+        "english_name": "Greenwood",
+        "french_name": "Greenwood",
+        "province": "NS"
+    },
+    "s0000804": {
+        "english_name": "Bridgetown",
+        "french_name": "Bridgetown",
+        "province": "NS"
+    },
+    "s0000805": {
+        "english_name": "Mackenzie",
+        "french_name": "Mackenzie",
+        "province": "BC"
+    },
+    "s0000806": {
+        "english_name": "Bathurst",
+        "french_name": "Bathurst",
+        "province": "NB"
+    },
+    "s0000807": {
+        "english_name": "Campbellton",
+        "french_name": "Campbellton",
+        "province": "NB"
+    },
+    "s0000808": {
+        "english_name": "Dalhousie",
+        "french_name": "Dalhousie",
+        "province": "NB"
+    },
+    "s0000809": {
+        "english_name": "Charlo",
+        "french_name": "Charlo",
+        "province": "NB"
+    },
+    "s0000810": {
+        "english_name": "Pointe-à-la-Croix",
+        "french_name": "Pointe-à-la-Croix",
+        "province": "QC"
+    },
+    "s0000811": {
+        "english_name": "Carleton-sur-Mer",
+        "french_name": "Carleton-sur-Mer",
+        "province": "QC"
+    },
+    "s0000812": {
+        "english_name": "Tatamagouche",
+        "french_name": "Tatamagouche",
+        "province": "NS"
+    },
+    "s0000813": {
+        "english_name": "Truro",
+        "french_name": "Truro",
+        "province": "NS"
+    },
+    "s0000814": {
+        "english_name": "Economy",
+        "french_name": "Economy",
+        "province": "NS"
+    },
+    "s0000815": {
+        "english_name": "Orangeville",
+        "french_name": "Orangeville",
+        "province": "ON"
+    },
+    "s0000816": {
+        "english_name": "Fort McPherson",
+        "french_name": "Fort McPherson",
+        "province": "NT"
+    },
+    "s0000817": {
+        "english_name": "Tulita",
+        "french_name": "Tulita",
+        "province": "NT"
+    },
+    "s0000818": {
+        "english_name": "Fort Good Hope",
+        "french_name": "Fort Good Hope",
+        "province": "NT"
+    },
+    "s0000819": {
+        "english_name": "Ignace",
+        "french_name": "Ignace",
+        "province": "ON"
+    },
+    "s0000820": {
+        "english_name": "Gjoa Haven",
+        "french_name": "Gjoa Haven",
+        "province": "NU"
+    },
+    "s0000821": {
+        "english_name": "Alert",
+        "french_name": "Alert",
+        "province": "NU"
+    },
+    "s0000822": {
+        "english_name": "Moose Jaw",
+        "french_name": "Moose Jaw",
+        "province": "SK"
+    },
+    "s0000823": {
+        "english_name": "Old Crow",
+        "french_name": "Old Crow",
+        "province": "YT"
+    },
+    "s0000824": {
+        "english_name": "Pincher Creek",
+        "french_name": "Pincher Creek",
+        "province": "AB"
+    },
+    "s0000825": {
+        "english_name": "Whitehorse",
+        "french_name": "Whitehorse",
+        "province": "YT"
+    },
+    "s0000826": {
+        "english_name": "Sandy Lake",
+        "french_name": "Sandy Lake",
+        "province": "ON"
+    },
+    "s0000827": {
+        "english_name": "St. Peters Bay",
+        "french_name": "St. Peters Bay",
+        "province": "PE"
+    },
+    "s0000828": {
+        "english_name": "Stewart",
+        "french_name": "Stewart",
+        "province": "BC"
+    },
+    "s0000829": {
+        "english_name": "Stettler",
+        "french_name": "Stettler",
+        "province": "AB"
+    },
+    "s0000830": {
+        "english_name": "Tuktoyaktuk",
+        "french_name": "Tuktoyaktuk",
+        "province": "NT"
+    },
+    "s0000831": {
+        "english_name": "Delta",
+        "french_name": "Delta",
+        "province": "MB"
+    },
+    "s0000832": {
+        "english_name": "Churchill Falls",
+        "french_name": "Churchill Falls",
+        "province": "NL"
+    },
+    "s0000833": {
+        "english_name": "Wainwright",
+        "french_name": "Wainwright",
+        "province": "AB"
+    },
+    "s0000834": {
+        "english_name": "Bella Bella",
+        "french_name": "Bella Bella",
+        "province": "BC"
+    },
+    "s0000835": {
+        "english_name": "Lloydminster",
+        "french_name": "Lloydminster",
+        "province": "SK"
+    },
+    "s0000843": {
+        "english_name": "Sudbury (Greater)",
+        "french_name": "Sudbury (Grand)",
+        "province": "ON"
+    },
+    "s0000845": {
+        "english_name": "Cummins Lakes (Provincial Park)",
+        "french_name": "Cummins Lakes (Parc provincial)",
+        "province": "BC"
+    },
+    "s0000846": {
+        "english_name": "Coquihalla Highway - Hope to Merritt",
+        "french_name": "route de Coquihalla - de Hope à Merritt",
+        "province": "HEF"
+    },
+    "s0000847": {
+        "english_name": "Coquihalla Highway - Merritt to Kamloops",
+        "french_name": "route de Coquihalla - de Merritt à Kamloops",
+        "province": "HEF"
+    },
+    "s0000849": {
+        "english_name": "Highway 3 - Hope to Princeton via Allison Pass",
+        "french_name": "route 3 - de Hope à Princeton via le col Allison",
+        "province": "HEF"
+    },
+    "s0000850": {
+        "english_name": "Highway 3 - Paulson Summit to Kootenay Pass",
+        "french_name": "route 3 - du sommet Paulson au col Kootenay",
+        "province": "HEF"
+    },
+    "s0000851": {
+        "english_name": "Highway 97 - Clinton to 100 Mile House via Begbie Summit",
+        "french_name": "route 97 - de Clinton à 100 Mile House via le sommet Begbie",
+        "province": "HEF"
+    },
+    "s0000852": {
+        "english_name": "Highway 97 - Pine Pass",
+        "french_name": "route 97 - col Pine",
+        "province": "HEF"
+    },
+    "s0000853": {
+        "english_name": "Okanagan Connector - Merritt to Kelowna",
+        "french_name": "route de liaison Okanagan - de Merritt à Kelowna",
+        "province": "HEF"
+    },
+    "s0000854": {
+        "english_name": "Sea to Sky - Squamish to Whistler",
+        "french_name": "Sea to Sky - de Squamish à Whistler",
+        "province": "HEF"
+    },
+    "s0000856": {
+        "english_name": "Trans-Canada Highway - Eagle Pass to Rogers Pass",
+        "french_name": "route Transcanadienne - du col Eagle au col Rogers",
+        "province": "HEF"
+    },
+    "s0000857": {
+        "english_name": "L'Anse-au-Loup",
+        "french_name": "L'Anse-au-Loup",
+        "province": "NL"
+    },
+    "s0000858": {
+        "english_name": "Rigolet",
+        "french_name": "Rigolet",
+        "province": "NL"
+    },
+    "s0000859": {
+        "english_name": "Cartwright Junction (Trans-Labrador Hwy)",
+        "french_name": "Cartwright Junction (Rte Trans-Labrador)",
+        "province": "NL"
+    },
+    "s0000860": {
+        "english_name": "Gull Island Rapids (Trans-Labrador Hwy)",
+        "french_name": "Gull Island Rapids (Rte Trans-Labrador)",
+        "province": "NL"
+    },
+    "s0000861": {
+        "english_name": "Eskasoni",
+        "french_name": "Eskasoni",
+        "province": "NS"
+    },
+    "s0000862": {
+        "english_name": "Richmond",
+        "french_name": "Richmond",
+        "province": "BC"
+    },
+    "s0000863": {
+        "english_name": "Duncan",
+        "french_name": "Duncan",
+        "province": "BC"
+    },
+    "s0000864": {
+        "english_name": "Qualicum Beach",
+        "french_name": "Qualicum Beach",
+        "province": "BC"
+    },
+    "s0000865": {
+        "english_name": "West Vancouver",
+        "french_name": "West Vancouver",
+        "province": "BC"
+    },
+    "s0000866": {
+        "english_name": "Langley",
+        "french_name": "Langley",
+        "province": "BC"
+    },
+    "s0000867": {
+        "english_name": "Yellowhead Highway - Tête Jaune Cache to the Alberta Border",
+        "french_name": "Route Yellowhead - de Tête Jaune Cache à la frontière de l'Alberta",
+        "province": "HEF"
+    },
+    "s0000868": {
+        "english_name": "Malahat Highway - Goldstream to Mill Bay",
+        "french_name": "Route Malahat - de Goldstream à Mill Bay",
+        "province": "HEF"
+    }
+}
