@@ -5,5 +5,11 @@
 venv/
 .python-version
 
-#IDE Files
+#IDE related Files
 .idea/
+
+#Test related files
+.tox/
+
+#Distro related files
+*.egg-info
