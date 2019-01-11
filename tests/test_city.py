@@ -1,4 +1,4 @@
-from src.models.city import City
+from src.city import City
 
 from unittest import TestCase
 
