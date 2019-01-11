@@ -1,6 +1,9 @@
+from urllib.error import URLError
+
 from src.city import City
 
 from unittest import TestCase
+from unittest.mock import Mock
 
 
 class TestCity(TestCase):

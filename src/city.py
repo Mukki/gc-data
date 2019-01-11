@@ -13,11 +13,7 @@ class City:
                 self.cities = json.load(json_file)
 
         else:
-            try:
-                urlretrieve(city_url, 'data/city/city.xml')
-
-            except IOError:
-                raise IOError('Can\'t access the list of city from the Government of Canada website')
+            urlretrieve(city_url, 'data/city/city.xml')
 
             city_tree = ElementTree.ElementTree()
             city_tree.parse('data/city/city.xml')
