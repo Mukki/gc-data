@@ -9,14 +9,14 @@ class City:
 
     def __init__(self, use_json=True, city_url='http://dd.weather.gc.ca/citypage_weather/xml/siteList.xml'):
         if use_json is True:
-            with open('data/city/cities.json') as json_file:
+            with open('data/cities.json') as json_file:
                 self.cities = json.load(json_file)
 
         else:
-            urlretrieve(city_url, 'data/city/city.xml')
+            urlretrieve(city_url, 'data/city.xml')
 
             city_tree = ElementTree.ElementTree()
-            city_tree.parse('data/city/city.xml')
+            city_tree.parse('data/city.xml')
             cities = city_tree.findall("site")
 
             for city in cities:
