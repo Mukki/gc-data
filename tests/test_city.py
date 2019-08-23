@@ -1,40 +1,66 @@
 from src.city import City
 
-from xml.etree.ElementTree import ParseError
-
 from unittest import TestCase
 
 
 class TestCity(TestCase):
     def setUp(self):
         self.cities = City()
+        self.cities._load_from_xml(cities_xml='tests/data/city.xml')
 
-    def test_can_create_city_list_using_web_downloaded_xml(self):
-        City(use_json=False)
-
-    def test_city_with_json_are_same_as_city_with_xml(self):
-        cities_with_json = self.cities
-        cities_with_xml = City(use_json=False)
-
-        self.assertListEqual(cities_with_json.cities, cities_with_xml.cities)
+    def test_can_fetch_cities_from_the_web(self):
+        self.cities.fetch()
+        self.assertGreater(len(self.cities), 0)
 
     def test_can_get_correct_city_with_name(self):
-        dolbeau_mistassini_dict = {
-            'id': 's0000270',
-            'english_name': 'Dolbeau-Mistassini',
-            'french_name': 'Dolbeau-Mistassini',
-            'province': 'QC',
+        athabasca_dict = {
+            'id': 's0000001',
+            'english_name': 'Athabasca',
+            'french_name': 'Athabasca',
+            'province': 'AB',
         }
 
-        dolbeau_mistassini = self.cities.find_city('Dolbeau-Mistassini')
+        athabasca = self.cities['Athabasca']
 
-        self.assertEqual(dolbeau_mistassini, dolbeau_mistassini_dict)
+        self.assertEqual(athabasca, athabasca_dict)
 
-    def test_cannot_get_City_that_doesnt_exist(self):
-        incorrect_city = self.cities.find_city('ABCDEFG')
+    def test_cannot_get_city_that_doesnt_exist(self):
+        incorrect_city = self.cities['Atlantis']
 
         self.assertIsNone(incorrect_city)
 
-    def test_bad_city_url_raises_exception(self):
-        with self.assertRaises(ParseError):
-            City(use_json=False, url='http://www.google.com')
+    def test_can_iterate_on_all_cities(self):
+        expected_cities = [
+            {
+                "id": "s0000001",
+                "english_name": "Athabasca",
+                "french_name": "Athabasca",
+                "province": "AB"
+            },
+            {
+                "id": "s0000002",
+                "english_name": "Clearwater",
+                "french_name": "Clearwater",
+                "province": "BC"
+            },
+            {
+                "id": "s0000003",
+                "english_name": "Valemount",
+                "french_name": "Valemount",
+                "province": "BC"
+            },
+            {
+                "id": "s0000004",
+                "english_name": "Grand Forks",
+                "french_name": "Grand Forks",
+                "province": "BC"
+            },
+        ]
+
+        cities_list = [city for city in self.cities]
+
+        self.assertListEqual(expected_cities, cities_list)
+
+    def test_can_check_if_city_is_in_cities(self):
+        self.assertIn('Athabasca', self.cities)
+        self.assertNotIn('Atlantis', self.cities)

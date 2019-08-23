@@ -13,3 +13,7 @@ venv/
 
 #Distro related files
 *.egg-info
+dist
+
+#Data
+data/*
