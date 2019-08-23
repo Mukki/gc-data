@@ -22,7 +22,7 @@ class City:
     def __len__(self):
         return len(self.cities)
 
-    def _load_from_xml(self, cities_xml='data/city.xml'):
+    def _load_from_xml(self, cities_xml='city.xml'):
         city_tree = ElementTree.ElementTree()
 
         city_tree.parse(cities_xml)
@@ -45,6 +45,6 @@ class City:
         return None
 
     def fetch(self):
-        urlretrieve(self._url, 'data/city.xml')
+        urlretrieve(self._url, 'city.xml')
 
-        self._load_from_xml()
+        self._load_from_xml(cities_xml='city.xml')
