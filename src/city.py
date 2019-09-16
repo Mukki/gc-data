@@ -1,4 +1,3 @@
-import json
 from urllib.request import urlretrieve
 import xml.etree.ElementTree as ElementTree
 

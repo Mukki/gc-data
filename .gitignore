@@ -1,5 +1,6 @@
 #Compiled Python files
 *.pyc
+build
 
 #Virtual env. files
 venv/
@@ -16,5 +17,5 @@ venv/
 dist
 
 #Data
-data/*
+data
 city.xml

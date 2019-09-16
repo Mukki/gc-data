@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name='gc-data',
-    version='0.0.1a8',
+    version='0.0.3',
     author='Jeremy Bouchard',
     author_email='mukki1996@gmail.com',
     description='Open source extractor of the Canadian Government meteorological data.',
